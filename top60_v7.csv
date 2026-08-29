@@ -1,0 +1,1921 @@
+year,ric,name,mktcap,fonte,rank
+1995,GE.N,General Electric Company,87090965999.9999,base,1
+1995,XOM.N,Exxonmobil Holdings Corp,75451500000.0,base,2
+1995,SHEL.N,Shell,72407593294.3921,base,3
+1995,T.N^K05,At&T Corp,67619900000.0,dead-redo,4
+1995,KO.N,Coca-Cola Co,66215610000.0,base,5
+1995,UN.N^K20,Unilever,51946723418.5103,dead-redo,6
+1995,MO.N,Altria Group Inc,50417150000.0,base,7
+1995,WMT.OQ,Walmart Inc,48837281250.0,base,8
+1995,MRK.N,Merck & Co Inc,47975203750.0,base,9
+1995,IBM.N,International Business Machines Corporation,42513723000.0,base,10
+1995,PG.N,The Procter & Gamble Company,42364847999.9999,base,11
+1995,DD.N^I17,EIDP,38130296904.0,dead-redo,12
+1995,MSFT.OQ,Microsoft Corporation,35598222000.0,base,13
+1995,JNJ.N,Johnson & Johnson,35183609250.0,base,14
+1995,MOB.N^K99,Mobil,34000000000.0,manual-est,15
+1995,MSI.N,Motorola Solutions Inc,32317600000.0,base,16
+1995,AIG.N,"American International Group, Inc.",31127544000.0,base,17
+1995,F.N,Ford Motor Co,29598726381.073273,edge-fix,18
+1995,BMY.N,Bristol-Myers Squibb Company,29555489250.0,base,19
+1995,GM.N^F09,Motors GUC Trust,29510236000.0,dead-redo,20
+1995,AN.N^L98,BP Nrth Amrc,29000000000.0,manual-est,21
+1995,GTE.N^G00,GTE,29000000000.0,manual-est,22
+1995,PEP.OQ,"PepsiCo, Inc.",28902668750.0,base,23
+1995,BLS.N^A07,Bellsouth US,26920806146.5,dead-redo,24
+1995,ABT.N,Abbott Laboratories,26746333875.0,base,25
+1995,INTC.OQ,Intel Corp,26469800000.0,base,26
+1995,HPQ.N,HP Inc,25259885625.0,base,27
+1995,DIS.N,The Walt Disney Company,24680518000.0,base,28
+1995,PFE.N,Pfizer Inc.,24316600500.0,base,29
+1995,T.N,AT&T Inc,24211065497.375,base,30
+1995,AIT.N^J99,AT&T Teleholding,24000000000.0,manual-est,31
+1995,VZ.N,Verizon Communications Inc,21691646750.0,base,32
+1995,HD.N,"The Home Depot, Inc.",20837264000.0,base,33
+1995,FNM.N^G10,Fannie Mae,19847541000.0,dead-redo,34
+1995,LLY.N,Eli Lilly and Company,19211653125.0,base,35
+1995,DOW.N^I17,Dow Chem,18392698150.875,dead-redo,36
+1995,PSKY.OQ,Paramount Skydance Corp,17593731000.0,base,37
+1995,C.N^K98,Old Carco,17000000000.0,manual-est,38
+1995,S.N^C05,Sears Roebuck,16706850000.0,dead-redo,39
+1995,G.N^J05,Gillette,16510536500.0,dead-redo,40
+1995,EK.N^A12,Eastman Kodak,16435729975.5,dead-redo,41
+1995,TX.N^J01,Texaco,16000000000.0,manual-est,42
+1995,ARC.N^D00,Atlantic Richfld,16000000000.0,manual-est,43
+1995,BA.N,Boeing Co,15965101000.0,base,44
+1995,NYN.N^H97,Nynex,15000000000.0,manual-est,45
+1995,BAC.N^I98,Bank America,15000000000.0,manual-est,46
+1995,CVX.N,Chevron Corporation,14531015625.0,base,47
+1995,AXP.N,American Express Company,14449926000.0,base,48
+1995,SGP.N^K09,Schering-Plough,14258466000.0,dead-redo,49
+1995,TWX.N^A01,Historic TW,14000000000.0,manual-est,50
+1995,EMR.N,Emerson Electric Co,13972124750.0,base,51
+1995,SO.N,Southern Co,13068340000.0,base,52
+1995,MCIC.O^I98,MCI Comm,13000000000.0,manual-est,53
+1995,BUD.N^K08,Anheuser-Busch,13000000000.0,manual-est,54
+1995,TCOMA.O^C99,TCI Commun,13000000000.0,manual-est,55
+1995,WMX.N^G98,Waste Mgmt Hldg,13000000000.0,manual-est,56
+1995,K.N^L25,Kellanova,12922640625.0,dead-redo,57
+1995,HCA.N^K06,HCA,12899491875.0,dead-redo,58
+1995,ORCL.N,Oracle Corporation,12626324625.0,base,59
+1995,SLB.N,SLB N.V.,12265204250.0,base,60
+1996,GE.N,General Electric Company,122765220732.0,base,1
+1996,T.N^K05,At&T Corp,109042752500.0,dead-redo,2
+1996,XOM.N,Exxonmobil Holdings Corp,100136250000.0,base,3
+1996,KO.N,Coca-Cola Co,94077181575.0,base,4
+1996,SHEL.N,Shell,88449253347.3936,base,5
+1996,MRK.N,Merck & Co Inc,79112154001.0,base,6
+1996,MO.N,Altria Group Inc,76691453055.0,base,7
+1996,UN.N^K20,Unilever,62642420822.6121,dead-redo,8
+1996,PG.N,The Procter & Gamble Company,57050785076.25,base,9
+1996,JNJ.N,Johnson & Johnson,54140987750.0,base,10
+1996,WMT.OQ,Walmart Inc,53348167344.0,base,11
+1996,MSFT.OQ,Microsoft Corporation,53159454614.75,base,12
+1996,IBM.N,International Business Machines Corporation,50736885166.875,base,13
+1996,INTC.OQ,Intel Corp,48131125000.0,base,14
+1996,BLS.N^A07,Bellsouth US,44581679498.75,dead-redo,15
+1996,PEP.OQ,"PepsiCo, Inc.",44450311250.0,base,16
+1996,AIG.N,"American International Group, Inc.",44268299601.75,base,17
+1996,MOB.N^K99,Mobil,44000000000.0,manual-est,18
+1996,BMY.N,Bristol-Myers Squibb Company,43203517693.75,base,19
+1996,HPQ.N,HP Inc,42808410429.0,base,20
+1996,GTE.N^G00,GTE,42000000000.0,manual-est,21
+1996,DD.N^I17,EIDP,40122070566.0,dead-redo,22
+1996,PFE.N,Pfizer Inc.,39600576104.25,base,23
+1996,GM.N^F09,Motors GUC Trust,36666910000.0,dead-redo,24
+1996,AN.N^L98,BP Nrth Amrc,36000000000.0,manual-est,25
+1996,T.N,AT&T Inc,35600605695.125,base,26
+1996,MSI.N,Motorola Solutions Inc,34797845999.9999,base,27
+1996,FNM.N^G10,Fannie Mae,33511941000.0,dead-redo,28
+1996,ABT.N,Abbott Laboratories,33001030528.75,base,29
+1996,LLY.N,Eli Lilly and Company,32060074745.043304,outlier-fix,30
+1996,F.N,Ford Motor Co,32029478484.375,base,31
+1996,AIT.N^J99,AT&T Teleholding,32000000000.0,manual-est,32
+1996,DIS.N,The Walt Disney Company,31949866568.5,base,33
+1996,MCD.N,McDonald's Corp,31680677665.0,base,34
+1996,WYE.N^J09,Wyeth,30020256000.0,dead-redo,35
+1996,VZ.N,Verizon Communications Inc,29627402232.5,base,36
+1996,MMM.N,3M Company,28430957828.5,base,37
+1996,BA.N,Boeing Co,27408818700.0,base,38
+1996,EK.N^A12,Eastman Kodak,24082551076.375,dead-redo,39
+1996,BAC.N^I98,Bank America,24000000000.0,manual-est,40
+1996,G.N^J05,Gillette,23141648883.07844,outlier-fix,41
+1996,NYN.N^H97,Nynex,23000000000.0,manual-est,42
+1996,HCA.N^K06,HCA,22683385275.0,dead-redo,43
+1996,HD.N,"The Home Depot, Inc.",22589252750.0,base,44
+1996,C.N^K98,Old Carco,22000000000.0,manual-est,45
+1996,AXP.N,American Express Company,20102792145.0,base,46
+1996,TX.N^J01,Texaco,20000000000.0,manual-est,47
+1996,CSCO.OQ,Cisco Systems Inc,19976645000.0,base,48
+1996,SGP.N^K09,Schering-Plough,19756780000.0,dead-redo,49
+1996,DOW.N^I17,Dow Chem,19012090089.125,dead-redo,50
+1996,BAC.N,Bank of America Corporation,18795215761.875,base,51
+1996,ORCL.N,Oracle Corporation,18441069515.988384,outlier-fix,52
+1996,EMR.N,Emerson Electric Co,18230984346.75,base,53
+1996,ALL.N,Allstate Corp,18065996957.375,base,54
+1996,ARC.N^D00,Atlantic Richfld,18000000000.0,manual-est,55
+1996,MCIC.O^I98,MCI Comm,18000000000.0,manual-est,56
+1996,PSKY.OQ,Paramount Skydance Corp,17386168164.75,base,57
+1996,K.N^L25,Kellanova,17313559375.0,dead-redo,58
+1996,CVX.N,Chevron Corporation,17217421875.0,base,59
+1996,BUD.N^K08,Anheuser-Busch,17000000000.0,manual-est,60
+1997,GE.N,General Electric Company,160731806193.75,base,1
+1997,KO.N,Coca-Cola Co,129073380095.0,base,2
+1997,XOM.N,Exxonmobil Holdings Corp,122160199185.5,base,3
+1997,SHEL.N,Shell,111572532176.782,base,4
+1997,INTC.OQ,Intel Corp,106985725000.0,base,5
+1997,MSFT.OQ,Microsoft Corporation,100872699094.36424,outlier-fix,6
+1997,MRK.N,Merck & Co Inc,96284489248.125,base,7
+1997,MO.N,Altria Group Inc,90805490841.5,base,8
+1997,IBM.N,International Business Machines Corporation,79313898447.5,base,9
+1997,UN.N^K20,Unilever,74071971651.9402,dead-redo,10
+1997,PG.N,The Procter & Gamble Company,72714689578.0,base,11
+1997,T.N^K05,At&T Corp,67241786000.0,dead-redo,12
+1997,JNJ.N,Johnson & Johnson,66253018061.0,base,13
+1997,DD.N^I17,EIDP,55242117928.7499,dead-redo,14
+1997,BMY.N,Bristol-Myers Squibb Company,53647505080.125,base,15
+1997,PFE.N,Pfizer Inc.,52778921430.0,base,16
+1997,WMT.OQ,Walmart Inc,52758673809.0,base,17
+1997,HPQ.N,HP Inc,51236664374.9999,base,18
+1997,AIG.N,"American International Group, Inc.",50464491690.0,base,19
+1997,MOB.N^K99,Mobil,49000000000.0,manual-est,20
+1997,PEP.OQ,"PepsiCo, Inc.",45829729926.5,base,21
+1997,DIS.N,The Walt Disney Company,45484762919.75,base,22
+1997,GTE.N^G00,GTE,44000000000.0,manual-est,23
+1997,GM.N^F09,Motors GUC Trust,43755531470.375,dead-redo,24
+1997,CVX.N,Chevron Corporation,42978320527.625,base,25
+1997,CSCO.OQ,Cisco Systems Inc,41335028044.875,base,26
+1997,BLS.N^A07,Bellsouth US,40730433692.0,dead-redo,27
+1997,LLY.N,Eli Lilly and Company,40005827555.0,base,28
+1997,FNM.N^G10,Fannie Mae,40000000000.0,manual-fix,29
+1997,AN.N^L98,BP Nrth Amrc,40000000000.0,manual-est,30
+1997,ABT.N,Abbott Laboratories,39133572365.875,base,31
+1997,F.N,Ford Motor Co,37786887200.625,base,32
+1997,WYE.N^J09,Wyeth,37678816000.0,dead-redo,33
+1997,BA.N,Boeing Co,36270125056.125,base,34
+1997,MMM.N,3M Company,36051884778.75,base,35
+1997,MSI.N,Motorola Solutions Inc,35499622912.3749,base,36
+1997,BAC.N^I98,Bank America,35000000000.0,manual-est,37
+1997,G.N^J05,Gillette,34619456379.375,dead-redo,38
+1997,AIT.N^J99,AT&T Teleholding,33000000000.0,manual-est,39
+1997,T.N,AT&T Inc,31767651652.375,base,40
+1997,MCD.N,McDonald's Corp,31484308917.125,base,41
+1997,VZ.N,Verizon Communications Inc,29330499215.0,base,42
+1997,BAC.N,Bank of America Corporation,27989532806.875,base,43
+1997,ORCL.N,Oracle Corporation,27632299967.9999,base,44
+1997,KMB.OQ,Kimberly-Clark Corporation,26945597457.625,base,45
+1997,EK.N^A12,Eastman Kodak,26298468356.0,dead-redo,46
+1997,HCA.N^K06,HCA,26256645775.0,dead-redo,47
+1997,TX.N^J01,Texaco,26000000000.0,manual-est,48
+1997,AXP.N,American Express Company,25885174150.625,base,49
+1997,ALL.N,Allstate Corp,25401928730.125,base,50
+1997,C.N,Citigroup Inc,25000000000.0,manual-fix,51
+1997,SLB.N,SLB N.V.,24653718100.0,base,52
+1997,SGP.N^K09,Schering-Plough,24425186375.0,dead-redo,53
+1997,C.N^K98,Old Carco,24000000000.0,manual-est,54
+1997,HD.N,"The Home Depot, Inc.",23596126018.125,base,55
+1997,EMR.N,Emerson Electric Co,21275976073.625,base,56
+1997,ARC.N^D00,Atlantic Richfld,21000000000.0,manual-est,57
+1997,FRE.N^G10,Freddie Mac,20260201125.0,dead-redo,58
+1997,CPB.OQ,Campbell's Co,20037841875.0,base,59
+1997,NYN.N^H97,Nynex,20000000000.0,manual-est,60
+1998,GE.N,General Electric Company,241690699812.0,base,1
+1998,KO.N,Coca-Cola Co,165551506202.25,base,2
+1998,MSFT.OQ,Microsoft Corporation,158997941891.625,base,3
+1998,XOM.N,Exxonmobil Holdings Corp,153101418401.25,base,4
+1998,SHEL.N,Shell,143897919039.615,base,5
+1998,MRK.N,Merck & Co Inc,130225412785.125,base,6
+1998,INTC.OQ,Intel Corp,118814500000.0,base,7
+1998,MO.N,Altria Group Inc,109855308084.375,base,8
+1998,PG.N,The Procter & Gamble Company,108779366906.875,base,9
+1998,UN.N^K20,Unilever,108213129131.929,dead-redo,10
+1998,IBM.N,International Business Machines Corporation,102685533250.625,base,11
+1998,PFE.N,Pfizer Inc.,97883208294.375,base,12
+1998,T.N^K05,At&T Corp,95526379562.5,dead-redo,13
+1998,BMY.N,Bristol-Myers Squibb Company,94083577608.375,base,14
+1998,WMT.OQ,Walmart Inc,88432594818.75,base,15
+1998,JNJ.N,Johnson & Johnson,86705187465.75,base,16
+1998,AIG.N,"American International Group, Inc.",77251946909.375,base,17
+1998,LLY.N,Eli Lilly and Company,76473391093.125,base,18
+1998,VZ.N,Verizon Communications Inc,70625630341.875,base,19
+1998,DD.N^I17,EIDP,68743311315.75,dead-redo,20
+1998,T.N,AT&T Inc,68686811301.625,base,21
+1998,DIS.N,The Walt Disney Company,67537048254.375,base,22
+1998,HPQ.N,HP Inc,67152295562.5,base,23
+1998,FNM.N^G10,Fannie Mae,60000000000.0,manual-fix,24
+1998,C.N,Citigroup Inc,58000000000.0,manual-fix,25
+1998,F.N,Ford Motor Co,57899708473.5,base,26
+1998,G.N^J05,Gillette,56503468618.125,dead-redo,27
+1998,CSCO.OQ,Cisco Systems Inc,56466029434.44582,outlier-fix,28
+1998,BLS.N^A07,Bellsouth US,56273787539.25,dead-redo,29
+1998,PEP.OQ,"PepsiCo, Inc.",54615092724.0,base,30
+1998,MOB.N^K99,Mobil,54000000000.0,manual-est,31
+1998,ABT.N,Abbott Laboratories,51581765684.3125,base,32
+1998,CVX.N,Chevron Corporation,51185658802.0625,base,33
+1998,WYE.N^J09,Wyeth,50023512000.0,dead-redo,34
+1998,GTE.N^G00,GTE,50000000000.0,manual-est,35
+1998,BA.N,Boeing Co,48855120631.375,base,36
+1998,SGP.N^K09,Schering-Plough,45713615625.0,dead-redo,37
+1998,AIT.N^J99,AT&T Teleholding,44000000000.0,manual-est,38
+1998,BAC.N,Bank of America Corporation,43202265360.75,base,39
+1998,GM.N^F09,Motors GUC Trust,43187668268.75,dead-redo,40
+1998,HD.N,"The Home Depot, Inc.",42795321133.5,base,41
+1998,BAC.N^I98,Bank America,42000000000.0,manual-est,42
+1998,AXP.N,American Express Company,41220126762.375,base,43
+1998,AN.N^L98,BP Nrth Amrc,41000000000.0,manual-est,44
+1998,SLB.N,SLB N.V.,40160394837.4375,base,45
+1998,ALL.N,Allstate Corp,39075897548.25,base,46
+1998,TWX.N^A01,Historic TW,35000000000.0,manual-est,47
+1998,MS.N,Morgan Stanley,34804687396.2499,base,48
+1998,MSI.N,Motorola Solutions Inc,34697642431.8749,base,49
+1998,MMM.N,3M Company,34692100793.5,base,50
+1998,MCD.N,McDonald's Corp,32803006482.375,base,51
+1998,WLA.N^F00,Warner Lambert,32563475806.4516,dead-redo,52
+1998,ONE.N^G04,Bank One,32000000000.0,manual-est,53
+1998,FRE.N^G10,Freddie Mac,30028178522.904613,outlier-fix,54
+1998,TX.N^J01,Texaco,29000000000.0,manual-est,55
+1998,MCIC.O^I98,MCI Comm,29000000000.0,manual-est,56
+1998,WFC.N,Wells Fargo & Co,28843616231.625,base,57
+1998,HSH.N^H14,Hillshire Brands,28806525763.875,dead-redo,58
+1998,DELL.OQ^J13,Dell,27991867706.25,dead-redo,59
+1998,CA.OQ^K18,CA,27705269989.747406,outlier-fix,60
+1999,MSFT.OQ,Microsoft Corporation,345826573312.5,base,1
+1999,GE.N,General Electric Company,333306848910.0,base,2
+1999,INTC.OQ,Intel Corp,197643687500.0,base,3
+1999,WMT.OQ,Walmart Inc,181072494894.875,base,4
+1999,XOM.N,Exxonmobil Holdings Corp,177783671081.25,base,5
+1999,MRK.N,Merck & Co Inc,175681754002.5,base,6
+1999,IBM.N,International Business Machines Corporation,170150799150.0,base,7
+1999,KO.N,Coca-Cola Co,165161981601.0,base,8
+1999,PFE.N,Pfizer Inc.,162224257374.999,base,9
+1999,CSCO.OQ,Cisco Systems Inc,146555049557.812,base,10
+1999,UN.N^K20,Unilever,144955158077.109,dead-redo,11
+1999,WCOEQ.OQ^G02,MCI,141786025771.38004,edge-fix,12
+1999,BMY.N,Bristol-Myers Squibb Company,132952310162.375,base,13
+1999,T.N^K05,At&T Corp,132833457750.0,dead-redo,14
+1999,MO.N,Altria Group Inc,130254778232.0,base,15
+1999,PG.N,The Procter & Gamble Company,122448380706.375,base,16
+1999,SHEL.N,Shell,120335625677.251,base,17
+1999,JNJ.N,Johnson & Johnson,112784149951.0,base,18
+1999,C.N,Citigroup Inc,108000000000.0,manual-fix,19
+1999,BAC.N,Bank of America Corporation,104740034750.0,base,20
+1999,AIG.N,"American International Group, Inc.",101452327121.625,base,21
+1999,T.N,AT&T Inc,98524551250.125,base,22
+1999,LLY.N,Eli Lilly and Company,97735820436.0,base,23
+1999,BLS.N^A07,Bellsouth US,96407321628.83635,outlier-fix,24
+1999,HD.N,"The Home Depot, Inc.",95643142322.0625,base,25
+1999,DELL.OQ^J13,Dell,93113007142.6875,dead-redo,26
+1999,VZ.N,Verizon Communications Inc,83822957406.0,base,27
+1999,TWX.N^A01,Historic TW,80000000000.0,manual-est,28
+1999,SGP.N^K09,Schering-Plough,79993632291.96123,outlier-fix,29
+1999,FNM.N^G10,Fannie Mae,75850000000.0,dead-redo,30
+1999,ABT.N,Abbott Laboratories,74363445905.0,base,31
+1999,WYE.N^J09,Wyeth,74302757375.0,dead-redo,32
+1999,LU.N^L06,Nokia of America,72523825605.0,dead-redo,33
+1999,F.N,Ford Motor Co,71012512522.3125,base,34
+1999,HPQ.N,HP Inc,69343882125.0,base,35
+1999,AIT.N^J99,AT&T Teleholding,69000000000.0,manual-est,36
+1999,MOB.N^K99,Mobil,68000000000.0,manual-est,37
+1999,GTE.N^G00,GTE,65000000000.0,manual-est,38
+1999,WFC.N,Wells Fargo & Co,64000000000.0,manual-fix,39
+1999,WLA.N^F00,Warner Lambert,62193305143.8535,dead-redo,40
+1999,DIS.N,The Walt Disney Company,61523956500.0,base,41
+1999,PEP.OQ,"PepsiCo, Inc.",59973041005.875,base,42
+1999,DD.N^I17,EIDP,59741022288.5624,dead-redo,43
+1999,ONE.N^G04,Bank One,57000000000.0,manual-est,44
+1999,CVX.N,Chevron Corporation,54112089261.6875,base,45
+1999,G.N^J05,Gillette,53038760684.0625,dead-redo,46
+1999,MCD.N,McDonald's Corp,51968160842.25,base,47
+1999,GM.N^F09,Motors GUC Trust,46835994497.1875,dead-redo,48
+1999,AXP.N,American Express Company,46339172622.5,base,49
+1999,FRE.N^G10,Freddie Mac,44795605124.9375,dead-redo,50
+1999,EMC.N^I16,EMC US,42656995000.0,dead-redo,51
+1999,ORCL.N,Oracle Corporation,41387568960.0,base,52
+1999,MS.N,Morgan Stanley,40000000000.0,manual-fix,53
+1999,XRX.OQ,Xerox Hlngs,38694424300.0,base,54
+1999,MSI.N,Motorola Solutions Inc,36704668750.0,base,55
+1999,MDT.N,Medtronic PLC,36350299612.6562,base,56
+1999,TXN.OQ,Texas Instruments Inc,33451971489.375,base,57
+1999,NT.N^A09,Nortel Networks,33242597057.862,dead-redo,58
+1999,JAVA.OQ^B10,Oracle America,32988285741.875,dead-redo,59
+1999,BA.N,Boeing Co,32596739605.125,base,60
+2000,MSFT.OQ,Microsoft Corporation,602432871232.75,base,1
+2000,GE.N,General Electric Company,507216801750.0,base,2
+2000,CSCO.OQ,Cisco Systems Inc,366498459455.5,base,3
+2000,WMT.OQ,Walmart Inc,307865010174.75,base,4
+2000,XOM.N,Exxonmobil Holdings Corp,280000000000.0,manual-fix,5
+2000,INTC.OQ,Intel Corp,275088375000.0,base,6
+2000,LU.N^L06,Nokia of America,242318896207.0,dead-redo,7
+2000,IBM.N,International Business Machines Corporation,194455953425.625,base,8
+2000,C.N,Citigroup Inc,187759659452.062,base,9
+2000,TWX.N^F18,Time Warner,185545338000.0,dead-redo,10
+2000,T.N^K05,At&T Corp,170614487501.5,dead-redo,11
+2000,AIG.N,"American International Group, Inc.",167403638894.375,base,12
+2000,T.N,AT&T Inc,167364835755.0,base,13
+2000,HD.N,"The Home Depot, Inc.",158287525000.0,base,14
+2000,WCOEQ.OQ^G02,MCI,157286145289.234,dead-redo,15
+2000,MRK.N,Merck & Co Inc,157045589067.187,base,16
+2000,ORCL.N,Oracle Corporation,151364237302.11478,outlier-fix,17
+2000,PG.N,The Procter & Gamble Company,144152947555.5,base,18
+2000,KO.N,Coca-Cola Co,143876368027.75,base,19
+2000,NT.N^A09,Nortel Networks,138865646592.874,dead-redo,20
+2000,JAVA.OQ^B10,Oracle America,133535093760.3734,outlier-fix,21
+2000,DELL.OQ^J13,Dell,130502500297.125,dead-redo,22
+2000,JNJ.N,Johnson & Johnson,129669344575.5,base,23
+2000,BMY.N,Bristol-Myers Squibb Company,127143241875.0,base,24
+2000,AABA.OQ^J19,Altaba,126924512500.0,dead-redo,25
+2000,PFE.N,Pfizer Inc.,125573974354.687,base,26
+2000,SHEL.N,Shell,125000000000.0,manual-fix,27
+2000,QCOM.OQ,QUALCOMM Incorporated,116212911000.0,base,28
+2000,EMC.N^I16,EMC US,115995588354.0,dead-redo,29
+2000,HPQ.N,HP Inc,113919781088.75,base,30
+2000,VZ.N,Verizon Communications Inc,95593384308.125,base,31
+2000,TWX.N^A01,Historic TW,95000000000.0,manual-est,32
+2000,MSI.N,Motorola Solutions Inc,89689045116.25,base,33
+2000,BLS.N^A07,Bellsouth US,87088750000.0,dead-redo,34
+2000,BAC.N,Bank of America Corporation,85679298606.0,base,35
+2000,UN.N^K20,Unilever,84884999575.2015,dead-redo,36
+2000,MS.N,Morgan Stanley,80000000000.0,manual-fix,37
+2000,TXN.OQ,Texas Instruments Inc,76566759158.375,base,38
+2000,AXP.N,American Express Company,74425658028.75,base,39
+2000,LLY.N,Eli Lilly and Company,72519671437.5,base,40
+2000,GTE.N^G00,GTE,68000000000.0,manual-est,41
+2000,DD.N^I17,EIDP,67894112520.0,dead-redo,42
+2000,WFC.N,Wells Fargo & Co,66410304102.9375,base,43
+2000,WLA.N^F00,Warner Lambert,65759862048.0876,dead-redo,44
+2000,F.N,Ford Motor Co,64395368636.0,base,45
+2000,AMGN.OQ,Amgen Inc,61354804750.0,base,46
+2000,DIS.N,The Walt Disney Company,60428846088.0,base,47
+2000,FNM.N^G10,Fannie Mae,60410937500.0,dead-redo,48
+2000,SGP.N^K09,Schering-Plough,60076000000.0,dead-redo,49
+2000,CVX.N,Chevron Corporation,56849008639.5,base,50
+2000,ABT.N,Abbott Laboratories,55273771181.125,base,51
+2000,MCD.N,McDonald's Corp,54583909199.0625,base,52
+2000,MO.N,Altria Group Inc,54421191709.9999,base,53
+2000,WYE.N^J09,Wyeth,52511197812.5,dead-redo,54
+2000,S.N^G13,Sprint Commns DE,51774475260.0,dead-redo,55
+2000,PEP.OQ,"PepsiCo, Inc.",51313367859.75,base,56
+2000,AMAT.OQ,Applied Materials Inc,47940497313.5625,base,57
+2000,GM.N^F09,Motors GUC Trust,47775532149.0,dead-redo,58
+2000,HON.OQ,Honeywell International Inc,45869274972.625,base,59
+2000,CBS.N^E00,CBS Co,44000000000.0,manual-est,60
+2001,GE.N,General Electric Company,433510087500.0,base,1
+2001,XOM.N,Exxonmobil Holdings Corp,309815381611.875,base,2
+2001,PFE.N,Pfizer Inc.,291004439096.25,base,3
+2001,C.N,Citigroup Inc,270232750941.5,base,4
+2001,WMT.OQ,Walmart Inc,240641542610.499,base,5
+2001,CSCO.OQ,Cisco Systems Inc,239755045716.875,base,6
+2001,MSFT.OQ,Microsoft Corporation,231290157453.5,base,7
+2001,AIG.N,"American International Group, Inc.",224319344318.75,base,8
+2001,MRK.N,Merck & Co Inc,214470564114.0,base,9
+2001,INTC.OQ,Intel Corp,209050625000.0,base,10
+2001,T.N,AT&T Inc,170517920573.0,base,11
+2001,KO.N,Coca-Cola Co,150802213624.562,base,12
+2001,IBM.N,International Business Machines Corporation,148793319909.812,base,13
+2001,EMC.N^I16,EMC US,148374888165.0,dead-redo,14
+2001,ORCL.N,Oracle Corporation,147328596059.25,base,15
+2001,JNJ.N,Johnson & Johnson,141782961060.0,base,16
+2001,BMY.N,Bristol-Myers Squibb Company,139808266455.0,base,17
+2001,VZ.N,Verizon Communications Inc,135629602341.0,base,18
+2001,NT.N^A09,Nortel Networks,108618266920.304,dead-redo,19
+2001,JAVA.OQ^B10,Oracle America,107575630734.0,dead-redo,20
+2001,HD.N,"The Home Depot, Inc.",105763112781.75,base,21
+2001,LLY.N,Eli Lilly and Company,103145602659.0,base,22
+2001,MO.N,Altria Group Inc,102699494268.625,base,23
+2001,PG.N,The Procter & Gamble Company,102040240801.5,base,24
+2001,UN.N^K20,Unilever,96601593706.8263,dead-redo,25
+2001,WFC.N,Wells Fargo & Co,92189831580.1875,base,26
+2001,TWX.N^F18,Time Warner,87509861025.0,dead-redo,27
+2001,JPM.N,JPMorgan Chase & Co,83787305228.0,base,28
+2001,SHEL.N,Shell,83004321478.3926,base,29
+2001,MS.N,Morgan Stanley,82842609660.0,base,30
+2001,FNM.N^G10,Fannie Mae,80840375000.0,dead-redo,31
+2001,BLS.N^A07,Bellsouth US,80327197351.0,dead-redo,32
+2001,TXN.OQ,Texas Instruments Inc,80118187758.375,base,33
+2001,WYE.N^J09,Wyeth,76876930800.0,dead-redo,34
+2001,BAC.N,Bank of America Corporation,76087360313.25,base,35
+2001,T.N^K05,At&T Corp,75661569577.125,dead-redo,36
+2001,SGP.N^K09,Schering-Plough,74563836000.0,dead-redo,37
+2001,ABT.N,Abbott Laboratories,74437969423.125,base,38
+2001,PHA.N^D03,Pharmacia,73510014261.0,dead-redo,39
+2001,Q.N^D11,Qwest Comms Intl,72040244512.5,dead-redo,40
+2001,MDT.N,Medtronic PLC,71488081896.0,base,41
+2001,PEP.OQ,"PepsiCo, Inc.",71277599406.25,base,42
+2001,AXP.N,American Express Company,69158772436.0,base,43
+2001,PSKY.OQ,Paramount Skydance Corp,68559217731.25,base,44
+2001,AMGN.OQ,Amgen Inc,64948754756.125,base,45
+2001,TWX.N^A01,Historic TW,60000000000.0,manual-est,46
+2001,MER.N^A09,Merrill Lyn,59234538859.375,dead-redo,47
+2001,HPQ.N,HP Inc,58459510177.75,base,48
+2001,DIS.N,The Walt Disney Company,58083676589.0625,base,49
+2001,ENE.N^A02,Eron Dissolution,56469159234.1318,dead-redo,50
+2001,CVX.N,Chevron Corporation,55156128242.1875,base,51
+2001,BA.N,Boeing Co,55083856290.0,base,52
+2001,QCOM.OQ,QUALCOMM Incorporated,53044647319.125,base,53
+2001,DELL.OQ^J13,Dell,52140000000.0,dead-redo,54
+2001,LU.N^L06,Nokia of America,51469570035.5625,dead-redo,55
+2001,DD.N^I17,EIDP,49784893179.9375,dead-redo,56
+2001,MMM.N,3M Company,47011538609.6875,base,57
+2001,SLB.N,SLB N.V.,46806115209.0,base,58
+2001,WCOEQ.OQ^G02,MCI,45612626801.6742,dead-redo,59
+2001,F.N,Ford Motor Co,44379641352.125,base,60
+2002,GE.N,General Electric Company,406526251950.0,base,1
+2002,MSFT.OQ,Microsoft Corporation,361060917656.8,base,2
+2002,XOM.N,Exxonmobil Holdings Corp,268986847932.0,base,3
+2002,C.N,Citigroup Inc,262436938726.41,base,4
+2002,WMT.OQ,Walmart Inc,258733962115.199,base,5
+2002,PFE.N,Pfizer Inc.,250840201455.9,base,6
+2002,INTC.OQ,Intel Corp,221496000000.0,base,7
+2002,IBM.N,International Business Machines Corporation,209300994130.5,base,8
+2002,AIG.N,"American International Group, Inc.",205732702586.25,base,9
+2002,JNJ.N,Johnson & Johnson,178921882517.2,base,10
+2002,CSCO.OQ,Cisco Systems Inc,141050353279.41,base,11
+2002,MRK.N,Merck & Co Inc,135936663205.68,base,12
+2002,TWX.N^F18,Time Warner,134387060503.579,dead-redo,13
+2002,T.N,AT&T Inc,134126269775.4,base,14
+2002,VZ.N,Verizon Communications Inc,131623865004.45,base,15
+2002,HD.N,"The Home Depot, Inc.",118080766295.05,base,16
+2002,KO.N,Coca-Cola Co,118047101113.34,base,17
+2002,PG.N,The Procter & Gamble Company,103691249600.0,base,18
+2002,MO.N,Altria Group Inc,101054624717.2,base,19
+2002,BAC.N,Bank of America Corporation,99056080440.24,base,20
+2002,BMY.N,Bristol-Myers Squibb Company,98387459584.65,base,21
+2002,CVX.N,Chevron Corporation,95456774544.4,base,22
+2002,LLY.N,Eli Lilly and Company,88250311672.0,base,23
+2002,UN.N^K20,Unilever,87217228051.6925,dead-redo,24
+2002,ABT.N,Abbott Laboratories,86690239290.88,base,25
+2002,PEP.OQ,"PepsiCo, Inc.",85992566283.65,base,26
+2002,WYE.N^J09,Wyeth,80150231840.0,dead-redo,27
+2002,FNM.N^G10,Fannie Mae,79264768000.0,dead-redo,28
+2002,PSKY.OQ,Paramount Skydance Corp,77991464569.0199,base,29
+2002,ORCL.N,Oracle Corporation,76850541016.62,base,30
+2002,DELL.OQ^J13,Dell,75681210000.0,dead-redo,31
+2002,BLS.N^A07,Bellsouth US,75078757960.0,dead-redo,32
+2002,WFC.N,Wells Fargo & Co,73639846944.72,base,33
+2002,JPM.N,JPMorgan Chase & Co,71718305655.3,base,34
+2002,SHEL.N,Shell,66824787467.831,base,35
+2002,T.N^K05,At&T Corp,65948889582.48,dead-redo,36
+2002,MS.N,Morgan Stanley,60643661289.52,base,37
+2002,MDT.N,Medtronic PLC,60531373000.0,base,38
+2002,AMGN.OQ,Amgen Inc,58966831849.2,base,39
+2002,PHA.N^D03,Pharmacia,54611663390.4,dead-redo,40
+2002,MER.N^A09,Merrill Lyn,52980868763.735,dead-redo,41
+2002,SGP.N^K09,Schering-Plough,50701298180.0,dead-redo,42
+2002,TXN.OQ,Texas Instruments Inc,49921971721.6,base,43
+2002,AXP.N,American Express Company,47871820668.36,base,44
+2002,ONE.N^G04,Bank One,46000000000.0,manual-est,45
+2002,MMM.N,3M Company,45928870284.9,base,46
+2002,FRE.N^G10,Freddie Mac,45615278880.0,dead-redo,47
+2002,DD.N^I17,EIDP,45158399138.7999,dead-redo,48
+2002,JAVA.OQ^B10,Oracle America,43747423165.1599,dead-redo,49
+2002,DIS.N,The Walt Disney Company,43728228129.2999,base,50
+2002,WB.N^A09,Wachovia Corp,43003755544.0,dead-redo,51
+2002,WCOEQ.OQ^G02,MCI,42950047909.3606,dead-redo,52
+2002,HPQ.N,HP Inc,42001583575.75,base,53
+2002,DUK.N,Duke Energy Corp,40682418631.95,base,54
+2002,USB.N,U.S. Bancorp,40090746488.85,base,55
+2002,BUD.N^K08,Anheuser-Busch,40000000000.0,manual-est,56
+2002,QCOM.OQ,QUALCOMM Incorporated,39788012385.2999,base,57
+2002,FBF.N^D04,FleetBoston Fin,37516296764.6,dead-redo,58
+2002,TGT.N,Target Corp,37014319562.0,base,59
+2002,EMC.N^I16,EMC US,36756218704.8,dead-redo,60
+2003,MSFT.OQ,Microsoft Corporation,287439209211.72,base,1
+2003,GE.N,General Electric Company,253553034280.0,base,2
+2003,XOM.N,Exxonmobil Holdings Corp,238674015252.3,base,3
+2003,WMT.OQ,Walmart Inc,227760509530.8,base,4
+2003,PFE.N,Pfizer Inc.,194293021271.82,base,5
+2003,C.N,Citigroup Inc,186863754350.0,base,6
+2003,JNJ.N,Johnson & Johnson,164362271905.15,base,7
+2003,AIG.N,"American International Group, Inc.",157298275605.6,base,8
+2003,IBM.N,International Business Machines Corporation,136170372112.319,base,9
+2003,MRK.N,Merck & Co Inc,130803662105.75,base,10
+2003,PG.N,The Procter & Gamble Company,113530309785.84,base,11
+2003,KO.N,Coca-Cola Co,111188204729.55,base,12
+2003,INTC.OQ,Intel Corp,110571250000.0,base,13
+2003,VZ.N,Verizon Communications Inc,109895583240.3,base,14
+2003,BAC.N,Bank of America Corporation,105786658037.52,base,15
+2003,CSCO.OQ,Cisco Systems Inc,98550816343.32,base,16
+2003,T.N,AT&T Inc,95987081392.58,base,17
+2003,MO.N,Altria Group Inc,83469191044.5,base,18
+2003,WFC.N,Wells Fargo & Co,82175071849.32,base,19
+2003,PSKY.OQ,Paramount Skydance Corp,75920847266.7,base,20
+2003,PEP.OQ,"PepsiCo, Inc.",74435653809.2,base,21
+2003,LLY.N,Eli Lilly and Company,74412268787.5199,base,22
+2003,CVX.N,Chevron Corporation,72442394786.3799,base,23
+2003,DELL.OQ^J13,Dell,71676093944.28,dead-redo,24
+2003,FNM.N^G10,Fannie Mae,67545114000.0,dead-redo,25
+2003,AMGN.OQ,Amgen Inc,63478081359.72,base,26
+2003,ABT.N,Abbott Laboratories,62579752031.2499,base,27
+2003,TWX.N^F18,Time Warner,60793996928.7999,dead-redo,28
+2003,ORCL.N,Oracle Corporation,59066765686.79,base,29
+2003,HD.N,"The Home Depot, Inc.",57864856974.96,base,30
+2003,MDT.N,Medtronic PLC,56955190816.92,base,31
+2003,PHA.N^D03,Pharmacia,56267735872.00001,dead-redo,32
+2003,HPQ.N,HP Inc,55536681200.0,base,33
+2003,CMCSA.OQ,Comcast Corporation,54689844527.8,base,34
+2003,WYE.N^J09,Wyeth,51441544400.0,dead-redo,35
+2003,WB.N^A09,Wachovia Corp,51093173813.52,dead-redo,36
+2003,JPM.N,JPMorgan Chase & Co,50791244953.44,base,37
+2003,BLS.N^A07,Bellsouth US,50404251449.28,dead-redo,38
+2003,MMM.N,3M Company,49457424627.0,base,39
+2003,AXP.N,American Express Company,48196091407.91,base,40
+2003,BMY.N,Bristol-Myers Squibb Company,46547188394.31,base,41
+2003,MS.N,Morgan Stanley,45776285140.02,base,42
+2003,MER.N^A09,Merrill Lyn,44688946491.9799,dead-redo,43
+2003,DD.N^I17,EIDP,43375334966.28,dead-redo,44
+2003,ONE.N^G04,Bank One,43000000000.0,manual-est,45
+2003,FRE.N^G10,Freddie Mac,42662263080.0,dead-redo,46
+2003,BUD.N^K08,Anheuser-Busch,42000000000.0,manual-est,47
+2003,USB.N,U.S. Bancorp,41050514768.55,base,48
+2003,DIS.N,The Walt Disney Company,35247649323.8,base,49
+2003,FITB.N,Fifth Third Bancorp,34927263200.7,base,50
+2003,SGP.N^K09,Schering-Plough,33908462480.0,dead-redo,51
+2003,COP.N,ConocoPhillips,33388035443.2199,base,52
+2003,GS.N,Goldman Sachs Group Inc,33255112820.3,base,53
+2003,WBA.OQ^H25,Walgreens Hldg,32961050156.1599,dead-redo,54
+2003,G.N^J05,Gillette,32862612048.0,dead-redo,55
+2003,WM.N^I08,WMI Holdings,32000000000.0,manual-est,56
+2003,LOW.N,Lowe's Companies Inc,30730143724.2,base,57
+2003,UPS.N,United Parcel Service Inc,30100816332.45,base,58
+2003,RTX.N,RTX Corporation,30035082368.19,base,59
+2003,QCOM.OQ,QUALCOMM Incorporated,29157896640.9,base,60
+2004,GE.N,General Electric Company,312471563200.0,base,1
+2004,MSFT.OQ,Microsoft Corporation,296802270783.45,base,2
+2004,PFE.N,Pfizer Inc.,271300637992.949,base,3
+2004,XOM.N,Exxonmobil Holdings Corp,268556154213.19,base,4
+2004,C.N,Citigroup Inc,268393396446.0,base,5
+2004,WMT.OQ,Walmart Inc,226342952419.1,base,6
+2004,INTC.OQ,Intel Corp,210069119999.999,base,7
+2004,AIG.N,"American International Group, Inc.",174184691432.88,base,8
+2004,CSCO.OQ,Cisco Systems Inc,167405943832.5,base,9
+2004,IBM.N,International Business Machines Corporation,157504744143.1,base,10
+2004,JNJ.N,Johnson & Johnson,153334264642.02,base,11
+2004,PG.N,The Procter & Gamble Company,127934290037.989,base,12
+2004,KO.N,Coca-Cola Co,123433643902.2,base,13
+2004,BAC.N,Bank of America Corporation,117512280594.06,base,14
+2004,MO.N,Altria Group Inc,111003577015.7,base,15
+2004,MRK.N,Merck & Co Inc,104686124611.75,base,16
+2004,WFC.N,Wells Fargo & Co,98425336586.22,base,17
+2004,VZ.N,Verizon Communications Inc,97344650683.5,base,18
+2004,CVX.N,Chevron Corporation,91812886792.2,base,19
+2004,DELL.OQ^J13,Dell,87873805081.92,dead-redo,20
+2004,T.N,AT&T Inc,86540900834.56,base,21
+2004,AMGN.OQ,Amgen Inc,80428323828.65,base,22
+2004,LLY.N,Eli Lilly and Company,79995701120.92,base,23
+2004,PEP.OQ,"PepsiCo, Inc.",79760077792.52,base,24
+2004,HD.N,"The Home Depot, Inc.",79678052378.18,base,25
+2004,TWX.N^F18,Time Warner,79267205404.62,dead-redo,26
+2004,PSKY.OQ,Paramount Skydance Corp,77589824465.9,base,27
+2004,JPM.N,JPMorgan Chase & Co,74714721090.4,base,28
+2004,ABT.N,Abbott Laboratories,73086765980.25,base,29
+2004,CMCSA.OQ,Comcast Corporation,72577299807.23,base,30
+2004,FNM.N^G10,Fannie Mae,71990787581.16,dead-redo,31
+2004,HPQ.N,HP Inc,70618082400.0,base,32
+2004,ORCL.N,Oracle Corporation,68690490814.8,base,33
+2004,MMM.N,3M Company,65435698461.21,base,34
+2004,MER.N^A09,Merrill Lyn,62397944111.63,dead-redo,35
+2004,MS.N,Morgan Stanley,61880515161.2,base,36
+2004,AXP.N,American Express Company,61420073749.25,base,37
+2004,WB.N^A09,Wachovia Corp,60998705510.4,dead-redo,38
+2004,MDT.N,Medtronic PLC,58688238528.36,base,39
+2004,WYE.N^J09,Wyeth,57227617880.0,dead-redo,40
+2004,BMY.N,Bristol-Myers Squibb Company,56918057689.05,base,41
+2004,USB.N,U.S. Bancorp,56052535000.0,base,42
+2004,BLS.N^A07,Bellsouth US,52246266317.85,dead-redo,43
+2004,ONE.N^G04,Bank One,51000000000.0,manual-est,44
+2004,TXN.OQ,Texas Instruments Inc,50724629125.74,base,45
+2004,DIS.N,The Walt Disney Company,48413772957.33,base,46
+2004,GS.N,Goldman Sachs Group Inc,45987882248.5499,base,47
+2004,DD.N^I17,EIDP,45363317538.18,dead-redo,48
+2004,FBF.N^D04,FleetBoston Fin,45187890472.35,dead-redo,49
+2004,BUD.N^K08,Anheuser-Busch,45000000000.0,manual-est,50
+2004,COP.N,ConocoPhillips,44577167036.88,base,51
+2004,RTX.N,RTX Corporation,44401977529.56,base,52
+2004,QCOM.OQ,QUALCOMM Incorporated,42899801497.14,base,53
+2004,LOW.N,Lowe's Companies Inc,42384465669.7,base,54
+2004,TRB.N^L07,Tribune Media,41395011002.55,dead-redo,55
+2004,EBAY.OQ,eBay Inc.,40697091666.0,base,56
+2004,FRE.N^G10,Freddie Mac,40580500080.0,dead-redo,57
+2004,UPS.N,United Parcel Service Inc,40261599442.2,base,58
+2004,DOW.N^I17,Dow Chem,37861594596.54,dead-redo,59
+2004,AMAT.OQ,Applied Materials Inc,37160484966.8,base,60
+2005,GE.N,General Electric Company,385882854500.0,base,1
+2005,XOM.N,Exxonmobil Holdings Corp,330693413019.86,base,2
+2005,MSFT.OQ,Microsoft Corporation,290719535928.16,base,3
+2005,C.N,Citigroup Inc,250042291638.48,base,4
+2005,WMT.OQ,Walmart Inc,223685678426.12,base,5
+2005,PFE.N,Pfizer Inc.,202508466924.47,base,6
+2005,BAC.N,Bank of America Corporation,189800906554.4,base,7
+2005,JNJ.N,Johnson & Johnson,188213195794.26,base,8
+2005,AIG.N,"American International Group, Inc.",171042165683.73,base,9
+2005,IBM.N,International Business Machines Corporation,164105855102.16,base,10
+2005,INTC.OQ,Intel Corp,147894970000.0,base,11
+2005,JPM.N,JPMorgan Chase & Co,138971689510.02,base,12
+2005,PG.N,The Procter & Gamble Company,138943903200.84,base,13
+2005,CSCO.OQ,Cisco Systems Inc,127217153190.96,base,14
+2005,MO.N,Altria Group Inc,125412604944.9,base,15
+2005,VZ.N,Verizon Communications Inc,112170502596.459,base,16
+2005,CVX.N,Chevron Corporation,111248326464.47,base,17
+2005,WFC.N,Wells Fargo & Co,105149682650.65,base,18
+2005,DELL.OQ^J13,Dell,103893591189.0,dead-redo,19
+2005,KO.N,Coca-Cola Co,100745294927.88,base,20
+2005,HD.N,"The Home Depot, Inc.",93855105117.46,base,21
+2005,PEP.OQ,"PepsiCo, Inc.",87929837469.0,base,22
+2005,TWX.N^F18,Time Warner,85582333761.66,dead-redo,23
+2005,T.N,AT&T Inc,85438216434.93,base,24
+2005,WB.N^A09,Wachovia Corp,83797771977.86,dead-redo,25
+2005,AMGN.OQ,Amgen Inc,81479238128.1,base,26
+2005,EBAY.OQ,eBay Inc.,77122766397.18,base,27
+2005,CMCSA.OQ,Comcast Corporation,72932462192.72,base,28
+2005,ABT.N,Abbott Laboratories,72652350934.95,base,29
+2005,ORCL.N,Oracle Corporation,71685155839.92,base,30
+2005,MRK.N,Merck & Co Inc,71273169333.26,base,31
+2005,AXP.N,American Express Company,70754942937.66,base,32
+2005,QCOM.OQ,QUALCOMM Incorporated,69497061493.5999,base,33
+2005,FNM.N^G10,Fannie Mae,68982498552.0199,dead-redo,34
+2005,LLY.N,Eli Lilly and Company,64220518925.0,base,35
+2005,MMM.N,3M Company,63894267160.4599,base,36
+2005,MER.N^A09,Merrill Lyn,63123024892.75,dead-redo,37
+2005,PSKY.OQ,Paramount Skydance Corp,63111341737.53,base,38
+2005,HPQ.N,HP Inc,61023535088.31,base,39
+2005,MS.N,Morgan Stanley,60421560987.52,base,40
+2005,MDT.N,Medtronic PLC,60037382968.82,base,41
+2005,COP.N,ConocoPhillips,59932940072.9999,base,42
+2005,USB.N,U.S. Bancorp,58180032000.0,base,43
+2005,UNH.N,UnitedHealth Group Inc,57538921696.65,base,44
+2005,DIS.N,The Walt Disney Company,56803274683.6,base,45
+2005,WYE.N^J09,Wyeth,56769997250.0,dead-redo,46
+2005,DD.N^I17,EIDP,53061130920.0,dead-redo,47
+2005,RTX.N,RTX Corporation,52816310792.7,base,48
+2005,AABA.OQ^J19,Altaba,52490601141.26,dead-redo,49
+2005,UPS.N,United Parcel Service Inc,51372273766.56,base,50
+2005,FRE.N^G10,Freddie Mac,50649293790.0,dead-redo,51
+2005,BLS.N^A07,Bellsouth US,50648197981.85,dead-redo,52
+2005,GS.N,Goldman Sachs Group Inc,50374727670.24,base,53
+2005,BMY.N,Bristol-Myers Squibb Company,49846463996.28,base,54
+2005,TFCFA.OQ^C19,Tfcf,49358180177.35,dead-redo,55
+2005,DOW.N^I17,Dow Chem,46639288286.4,dead-redo,56
+2005,TGT.N,Target Corp,46499464650.15,base,57
+2005,LOW.N,Lowe's Companies Inc,44450661300.89,base,58
+2005,G.N^J05,Gillette,44338956543.42,dead-redo,59
+2005,BA.N,Boeing Co,43465916137.31,base,60
+2006,GE.N,General Electric Company,370344153350.0,base,1
+2006,XOM.N,Exxonmobil Holdings Corp,349511965738.79,base,2
+2006,MSFT.OQ,Microsoft Corporation,278358230669.95,base,3
+2006,C.N,Citigroup Inc,246051430817.2,base,4
+2006,PG.N,The Procter & Gamble Company,198838616484.12,base,5
+2006,WMT.OQ,Walmart Inc,194851341172.8,base,6
+2006,BAC.N,Bank of America Corporation,185342123335.85,base,7
+2006,JNJ.N,Johnson & Johnson,178793291497.5,base,8
+2006,AIG.N,"American International Group, Inc.",177098321899.75,base,9
+2006,PFE.N,Pfizer Inc.,171900963581.6,base,10
+2006,MO.N,Altria Group Inc,155594605926.56,base,11
+2006,INTC.OQ,Intel Corp,150483840000.0,base,12
+2006,JPM.N,JPMorgan Chase & Co,138877870163.759,base,13
+2006,IBM.N,International Business Machines Corporation,129836256793.2,base,14
+2006,CVX.N,Chevron Corporation,127447724932.85,base,15
+2006,CSCO.OQ,Cisco Systems Inc,105160397655.04,base,16
+2006,WFC.N,Wells Fargo & Co,105067100509.97,base,17
+2006,PEP.OQ,"PepsiCo, Inc.",98025179983.92,base,18
+2006,AMGN.OQ,Amgen Inc,97338464790.48,base,19
+2006,KO.N,Coca-Cola Co,95904349310.84,base,20
+2006,T.N,AT&T Inc,95694971622.8799,base,21
+2006,HD.N,"The Home Depot, Inc.",85991099749.28,base,22
+2006,WB.N^A09,Wachovia Corp,84058222903.13,dead-redo,23
+2006,VZ.N,Verizon Communications Inc,83281091487.24,base,24
+2006,UPS.N,United Parcel Service Inc,82931738988.15,base,25
+2006,HPQ.N,HP Inc,81242026032.23,base,26
+2006,UNH.N,UnitedHealth Group Inc,80880453062.5,base,27
+2006,TWX.N^F18,Time Warner,80755187537.45,dead-redo,28
+2006,COP.N,ConocoPhillips,80728535947.14,base,29
+2006,DELL.OQ^J13,Dell,72064836199.34,dead-redo,30
+2006,MER.N^A09,Merrill Lyn,71192773494.06,dead-redo,31
+2006,QCOM.OQ,QUALCOMM Incorporated,70831599438.5999,base,32
+2006,MDT.N,Medtronic PLC,69636404990.34,base,33
+2006,MRK.N,Merck & Co Inc,69556777343.8199,base,34
+2006,S.N^G13,Sprint Commns DE,65584669849.2499,dead-redo,35
+2006,LLY.N,Eli Lilly and Company,64321789441.87,base,36
+2006,AXP.N,American Express Company,63897325254.26,base,37
+2006,ORCL.N,Oracle Corporation,63028329315.93,base,38
+2006,WYE.N^J09,Wyeth,62415043500.0,dead-redo,39
+2006,ABT.N,Abbott Laboratories,61164933327.9099,base,40
+2006,MS.N,Morgan Stanley,61161292691.28,base,41
+2006,AAPL.OQ,Apple Inc.,60586587781.72,base,42
+2006,EBAY.OQ,eBay Inc.,60238608832.38,base,43
+2006,MMM.N,3M Company,58894766115.0,base,44
+2006,AABA.OQ^J19,Altaba,58040497696.5399,dead-redo,45
+2006,GS.N,Goldman Sachs Group Inc,57571577070.4799,base,46
+2006,SLB.N,SLB N.V.,57229933105.35,base,47
+2006,RTX.N,RTX Corporation,56952862672.75,base,48
+2006,BA.N,Boeing Co,56702316989.92,base,49
+2006,CMCSA.OQ,Comcast Corporation,56502372047.42,base,50
+2006,MSI.N,Motorola Solutions Inc,56267050420.62,base,51
+2006,USB.N,U.S. Bancorp,54290578353.2,base,52
+2006,LOW.N,Lowe's Companies Inc,52122699142.14,base,53
+2006,TXN.OQ,Texas Instruments Inc,51890953007.37,base,54
+2006,TFCFA.OQ^C19,Tfcf,51348426676.98,dead-redo,55
+2006,PSKY.OQ,Paramount Skydance Corp,50380827811.6,base,56
+2006,BLS.N^A07,Bellsouth US,50334517671.93,dead-redo,57
+2006,ELV.N,Elevance Health Inc,49166614436.74,base,58
+2006,TGT.N,Target Corp,48328731452.11,base,59
+2006,FNM.N^G10,Fannie Mae,47175627605.24,dead-redo,60
+2007,XOM.N,Exxonmobil Holdings Corp,446943589540.35,base,1
+2007,GE.N,General Electric Company,383564475420.0,base,2
+2007,MSFT.OQ,Microsoft Corporation,293537538376.98,base,3
+2007,C.N,Citigroup Inc,273691242208.2,base,4
+2007,BAC.N,Bank of America Corporation,239757839794.6,base,5
+2007,T.N,AT&T Inc,222000000000.0,manual-fix,6
+2007,PG.N,The Procter & Gamble Company,202796517018.81,base,7
+2007,WMT.OQ,Walmart Inc,192479417312.92,base,8
+2007,JNJ.N,Johnson & Johnson,191415428983.599,base,9
+2007,PFE.N,Pfizer Inc.,186750516745.8,base,10
+2007,AIG.N,"American International Group, Inc.",186296022266.9,base,11
+2007,MO.N,Altria Group Inc,179868470689.039,base,12
+2007,JPM.N,JPMorgan Chase & Co,167550658407.3,base,13
+2007,CSCO.OQ,Cisco Systems Inc,165967404558.03,base,14
+2007,CVX.N,Chevron Corporation,160294116680.91,base,15
+2007,IBM.N,International Business Machines Corporation,146342081644.6,base,16
+2007,GOOGL.OQ,Alphabet Inc.,140979208975.04,base,17
+2007,WFC.N,Wells Fargo & Co,120049306830.04,base,18
+2007,COP.N,ConocoPhillips,118413138333.15,base,19
+2007,INTC.OQ,Intel Corp,116761500000.0,base,20
+2007,KO.N,Coca-Cola Co,113088154201.5,base,21
+2007,HPQ.N,HP Inc,112070087657.31,base,22
+2007,WB.N^A09,Wachovia Corp,108752917835.77,dead-redo,23
+2007,VZ.N,Verizon Communications Inc,108722749511.32,base,24
+2007,PEP.OQ,"PepsiCo, Inc.",102712193196.299,base,25
+2007,MER.N^A09,Merrill Lyn,101922406521.989,dead-redo,26
+2007,MRK.N,Merck & Co Inc,94655716368.4,base,27
+2007,TFCFA.OQ^C19,Tfcf,89893812596.64,dead-redo,28
+2007,ORCL.N,Oracle Corporation,88822751117.58,base,29
+2007,TWX.N^F18,Time Warner,87929606650.26,dead-redo,30
+2007,CMCSA.OQ,Comcast Corporation,87774144085.5,base,31
+2007,MS.N,Morgan Stanley,86198399844.67,base,32
+2007,BLS.N^A07,Bellsouth US,85223352245.9266,dead-redo,33
+2007,GS.N,Goldman Sachs Group Inc,84889629932.4,base,34
+2007,HD.N,"The Home Depot, Inc.",81961385986.4,base,35
+2007,UPS.N,United Parcel Service Inc,80494294554.22,base,36
+2007,AMGN.OQ,Amgen Inc,79684875729.36,base,37
+2007,ABT.N,Abbott Laboratories,74763216769.62,base,38
+2007,SLB.N,SLB N.V.,74416078600.64,base,39
+2007,AAPL.OQ,Apple Inc.,72900785543.88,base,40
+2007,AXP.N,American Express Company,72632231096.0,base,41
+2007,UNH.N,UnitedHealth Group Inc,72374103999.18,base,42
+2007,DIS.N,The Walt Disney Company,70886028552.43,base,43
+2007,BA.N,Boeing Co,70249284298.2,base,44
+2007,WYE.N^J09,Wyeth,69233795590.0,dead-redo,45
+2007,USB.N,U.S. Bancorp,63616944931.5399,base,46
+2007,RTX.N,RTX Corporation,62748252392.4,base,47
+2007,QCOM.OQ,QUALCOMM Incorporated,62449985541.3699,base,48
+2007,MDT.N,Medtronic PLC,61597137157.43,base,49
+2007,LLY.N,Eli Lilly and Company,58955758349.2,base,50
+2007,FNM.N^G10,Fannie Mae,58366653843.82,dead-redo,51
+2007,DELL.OQ^J13,Dell,57903443689.39,dead-redo,52
+2007,MMM.N,3M Company,57385011030.23,base,53
+2007,S.N^G13,Sprint Commns DE,55118965857.7599,dead-redo,54
+2007,MCD.N,McDonald's Corp,54825062334.9,base,55
+2007,BMY.N,Bristol-Myers Squibb Company,51764284802.72,base,56
+2007,MSI.N,Motorola Solutions Inc,49703085067.1199,base,57
+2007,TGT.N,Target Corp,48999530049.3999,base,58
+2007,ELV.N,Elevance Health Inc,48789462641.01,base,59
+2007,LOW.N,Lowe's Companies Inc,47434795799.2999,base,60
+2008,XOM.N,Exxonmobil Holdings Corp,510903631258.65,base,1
+2008,GE.N,General Electric Company,371504242840.0,base,2
+2008,MSFT.OQ,Microsoft Corporation,329498558480.64,base,3
+2008,T.N,AT&T Inc,248655111128.0,base,4
+2008,PG.N,The Procter & Gamble Company,222533895998.96,base,5
+2008,GOOGL.OQ,Alphabet Inc.,214355171917.15,base,6
+2008,CVX.N,Chevron Corporation,197335361936.659,base,7
+2008,JNJ.N,Johnson & Johnson,188617936634.009,base,8
+2008,WMT.OQ,Walmart Inc,187825550448.199,base,9
+2008,BAC.N,Bank of America Corporation,180018183758.4,base,10
+2008,AAPL.OQ,Apple Inc.,170590266986.16,base,11
+2008,CSCO.OQ,Cisco Systems Inc,161017307311.72,base,12
+2008,MO.N,Altria Group Inc,157826554452.94,base,13
+2008,PFE.N,Pfizer Inc.,156470834222.43,base,14
+2008,INTC.OQ,Intel Corp,149134050000.0,base,15
+2008,C.N,Citigroup Inc,144464076000.0,base,16
+2008,IBM.N,International Business Machines Corporation,144258135960.02,base,17
+2008,AIG.N,"American International Group, Inc.",142790207338.3,base,18
+2008,JPM.N,JPMorgan Chase & Co,141650876835.15,base,19
+2008,KO.N,Coca-Cola Co,141177568252.43,base,20
+2008,COP.N,ConocoPhillips,140585033441.16,base,21
+2008,HPQ.N,HP Inc,127792577280.9,base,22
+2008,VZ.N,Verizon Communications Inc,124891041207.069,base,23
+2008,MRK.N,Merck & Co Inc,124869676843.93,base,24
+2008,PEP.OQ,"PepsiCo, Inc.",121194491738.46,base,25
+2008,SLB.N,SLB N.V.,120280349629.7,base,26
+2008,ORCL.N,Oracle Corporation,115521857867.78,base,27
+2008,WFC.N,Wells Fargo & Co,97612444090.2,base,28
+2008,ABT.N,Abbott Laboratories,86241659173.77,base,29
+2008,GS.N,Goldman Sachs Group Inc,82557289310.4,base,30
+2008,RTX.N,RTX Corporation,74345694351.42,base,31
+2008,UNH.N,UnitedHealth Group Inc,73226805352.44,base,32
+2008,UPS.N,United Parcel Service Inc,72455282565.12,base,33
+2008,WB.N^A09,Wachovia Corp,69532168623.4,dead-redo,34
+2008,MCD.N,McDonald's Corp,68718214177.9,base,35
+2008,BA.N,Boeing Co,67135947012.08,base,36
+2008,MON.N^F18,Monsanto,66263365676.52,dead-redo,37
+2008,OXY.N,Occidental Petroleum Corp,64920523709.1,base,38
+2008,MER.N^A09,Merrill Lyn,64828492175.49,dead-redo,39
+2008,TFCFA.OQ^C19,Tfcf,63375261075.0499,dead-redo,40
+2008,QCOM.OQ,QUALCOMM Incorporated,62824734509.57,base,41
+2008,DIS.N,The Walt Disney Company,60606953198.24,base,42
+2008,WYE.N^J09,Wyeth,60127386000.0,dead-redo,43
+2008,AXP.N,American Express Company,59687498089.12,base,44
+2008,LLY.N,Eli Lilly and Company,59608136641.5499,base,45
+2008,TWX.N^F18,Time Warner,59026351324.6099,dead-redo,46
+2008,MMM.N,3M Company,58991168356.8299,base,47
+2008,CVS.N,CVS Health Corporation,58115660850.0,base,48
+2008,MDT.N,Medtronic PLC,55967606937.0,base,49
+2008,MS.N,Morgan Stanley,54069585706.25,base,50
+2008,USB.N,U.S. Bancorp,53837335440.44,base,51
+2008,BNY.N,Bank of New York Mellon Corp,53666061640.02,base,52
+2008,CMCSA.OQ,Comcast Corporation,53199572191.7,base,53
+2008,DELL.OQ^J13,Dell,53133794443.61,dead-redo,54
+2008,EXC.OQ,Exelon Corp,52916296299.32,base,55
+2008,BMY.N,Bristol-Myers Squibb Company,51698503535.25,base,56
+2008,AMGN.OQ,Amgen Inc,50684111561.4,base,57
+2008,ELV.N,Elevance Health Inc,49705641444.0,base,58
+2008,MDLZ.OQ,Mondelez International Inc,49587606448.45,base,59
+2008,RIG.N,Transocea,46120200000.0,base,60
+2009,XOM.N,Exxonmobil Holdings Corp,406240640000.0,base,1
+2009,WMT.OQ,Walmart Inc,224291542629.66,base,2
+2009,PG.N,The Procter & Gamble Company,184055908093.6,base,3
+2009,MSFT.OQ,Microsoft Corporation,180846993397.599,base,4
+2009,GE.N,General Electric Company,179164210710.0,base,5
+2009,T.N,AT&T Inc,173372060000.0,base,6
+2009,JNJ.N,Johnson & Johnson,168277555689.55,base,7
+2009,CVX.N,Chevron Corporation,155472624746.6,base,8
+2009,WFC.N,Wells Fargo & Co,124768851890.0,base,9
+2009,PFE.N,Pfizer Inc.,123193429849.349,base,10
+2009,IBM.N,International Business Machines Corporation,117377924236.82,base,11
+2009,JPM.N,JPMorgan Chase & Co,117023280000.0,base,12
+2009,KO.N,Coca-Cola Co,106120800000.0,base,13
+2009,GOOGL.OQ,Alphabet Inc.,101136791589.16,base,14
+2009,CSCO.OQ,Cisco Systems Inc,99302272026.24,base,15
+2009,VZ.N,Verizon Communications Inc,98412240000.0,base,16
+2009,ORCL.N,Oracle Corporation,92900118570.0,base,17
+2009,BAC.N,Bank of America Corporation,91605225651.02,base,18
+2009,PM.N,Philip Morris International Inc,89256254565.0,base,19
+2009,HPQ.N,HP Inc,88940371141.35,base,20
+2009,PEP.OQ,"PepsiCo, Inc.",86921410000.0,base,21
+2009,INTC.OQ,Intel Corp,84542400000.0,base,22
+2009,ABT.N,Abbott Laboratories,83102741346.56,base,23
+2009,COP.N,ConocoPhillips,81771347060.35,base,24
+2009,AAPL.OQ,Apple Inc.,80805154353.0,base,25
+2009,MCD.N,McDonald's Corp,71052236610.0,base,26
+2009,MRK.N,Merck & Co Inc,65539770309.0,base,27
+2009,AMGN.OQ,Amgen Inc,61762530000.0,base,28
+2009,QCOM.OQ,QUALCOMM Incorporated,61093432145.85,base,29
+2009,UPS.N,United Parcel Service Inc,55839810599.28,base,30
+2009,SLB.N,SLB N.V.,54569186897.2,base,31
+2009,RTX.N,RTX Corporation,52236351892.55,base,32
+2009,CMCSA.OQ,Comcast Corporation,51248924103.5099,base,33
+2009,WYE.N^J09,Wyeth,51115785930.0,dead-redo,34
+2009,OXY.N,Occidental Petroleum Corp,50341967995.2,base,35
+2009,GILD.OQ,"Gilead Sciences, Inc.",47510397711.4,base,36
+2009,BMY.N,Bristol-Myers Squibb Company,47139120000.0,base,37
+2009,LLY.N,Eli Lilly and Company,46126196719.81,base,38
+2009,USB.N,U.S. Bancorp,44313750000.0,base,39
+2009,DIS.N,The Walt Disney Company,44276569691.12,base,40
+2009,CVS.N,CVS Health Corporation,42270915700.0,base,41
+2009,MMM.N,3M Company,41050827157.53,base,42
+2009,HD.N,"The Home Depot, Inc.",40911398765.0499,base,43
+2009,MON.N^F18,Monsanto,40393946381.24,dead-redo,44
+2009,MDLZ.OQ,Mondelez International Inc,40165958508.42,base,45
+2009,C.N,Citigroup Inc,38913714000.0,base,46
+2009,GS.N,Goldman Sachs Group Inc,38334051500.76,base,47
+2009,TWX.N^F18,Time Warner,38140440000.0,dead-redo,48
+2009,EXC.OQ,Exelon Corp,37613421321.2,base,49
+2009,MDT.N,Medtronic PLC,36465306782.19,base,50
+2009,CL.N,Colgate-Palmolive Company,34986827232.52,base,51
+2009,BAX.N,Baxter International Inc.,34159022480.52,base,52
+2009,LMT.N,Lockheed Martin Corp,33595485000.0,base,53
+2009,UNH.N,UnitedHealth Group Inc,33323467526.16,base,54
+2009,LOW.N,Lowe's Companies Inc,33268333533.04,base,55
+2009,BA.N,Boeing Co,32878614478.75,base,56
+2009,BNY.N,Bank of New York Mellon Corp,32754287367.48,base,57
+2009,MO.N,Altria Group Inc,31318044842.3999,base,58
+2009,DVN.N,Devon Energy Corporation,30409559999.9999,base,59
+2009,SO.N,Southern Co,29151660000.0,base,60
+2010,XOM.N,Exxonmobil Holdings Corp,323717280685.44,base,1
+2010,MSFT.OQ,Microsoft Corporation,270635619601.44,base,2
+2010,WMT.OQ,Walmart Inc,203653691636.15,base,3
+2010,GOOGL.OQ,Alphabet Inc.,196701274692.9,base,4
+2010,AAPL.OQ,Apple Inc.,191004590606.712,base,5
+2010,JNJ.N,Johnson & Johnson,177713613351.66,base,6
+2010,PG.N,The Procter & Gamble Company,176105470801.02,base,7
+2010,IBM.N,International Business Machines Corporation,171950624322.4,base,8
+2010,T.N,AT&T Inc,165405030000.0,base,9
+2010,JPM.N,JPMorgan Chase & Co,164207057763.78,base,10
+2010,GE.N,General Electric Company,161096599350.0,base,11
+2010,CVX.N,Chevron Corporation,154462561155.58,base,12
+2010,PFE.N,Pfizer Inc.,146784860913.21,base,13
+2010,WFC.N,Wells Fargo & Co,137995285883.449,base,14
+2010,CSCO.OQ,Cisco Systems Inc,137716890813.18,base,15
+2010,KO.N,Coca-Cola Co,132079343904.0,base,16
+2010,BAC.N,Bank of America Corporation,130280443130.16,base,17
+2010,ORCL.N,Oracle Corporation,122925226600.0,base,18
+2010,HPQ.N,HP Inc,121778340966.18,base,19
+2010,INTC.OQ,Intel Corp,112648799999.999,base,20
+2010,MRK.N,Merck & Co Inc,111610579348.8,base,21
+2010,PEP.OQ,"PepsiCo, Inc.",94875031011.2,base,22
+2010,C.N,Citigroup Inc,94155319946.76,base,23
+2010,VZ.N,Verizon Communications Inc,94110671089.18,base,24
+2010,PM.N,Philip Morris International Inc,91786757235.08,base,25
+2010,GS.N,Goldman Sachs Group Inc,86797630712.52,base,26
+2010,ABT.N,Abbott Laboratories,83508407619.74,base,27
+2010,SLB.N,SLB N.V.,78157747571.01,base,28
+2010,QCOM.OQ,QUALCOMM Incorporated,77268682988.28,base,29
+2010,COP.N,ConocoPhillips,75772268054.21,base,30
+2010,MCD.N,McDonald's Corp,67384412178.1599,base,31
+2010,OXY.N,Occidental Petroleum Corp,66029129404.5499,base,32
+2010,RTX.N,RTX Corporation,65074610933.9699,base,33
+2010,V.N,Visa Inc.,64950160218.7199,base,34
+2010,DIS.N,The Walt Disney Company,60146600170.5,base,35
+2010,MMM.N,3M Company,58526910015.56,base,36
+2010,AMZN.OQ,Amazon.com Inc,58244841682.32,base,37
+2010,AMGN.OQ,Amgen Inc,57256671211.38,base,38
+2010,UPS.N,United Parcel Service Inc,56957181084.64,base,39
+2010,HD.N,"The Home Depot, Inc.",49192915890.9099,base,40
+2010,MDT.N,Medtronic PLC,48582560875.5,base,41
+2010,AXP.N,American Express Company,48185142386.16,base,42
+2010,CMCSA.OQ,Comcast Corporation,47342400983.41,base,43
+2010,CVS.N,CVS Health Corporation,45433590030.0,base,44
+2010,MON.N^F18,Monsanto,44579213490.0,dead-redo,45
+2010,BMY.N,Bristol-Myers Squibb Company,43220287135.0,base,46
+2010,USB.N,U.S. Bancorp,43048661471.27,base,47
+2010,LLY.N,Eli Lilly and Company,41031590082.55,base,48
+2010,CL.N,Colgate-Palmolive Company,40844251165.2,base,49
+2010,MO.N,Altria Group Inc,40677508231.2299,base,50
+2010,MS.N,Morgan Stanley,40239227722.4,base,51
+2010,MDLZ.OQ,Mondelez International Inc,40113236749.5,base,52
+2010,BA.N,Boeing Co,39330807334.32,base,53
+2010,GILD.OQ,"Gilead Sciences, Inc.",38939756956.77,base,54
+2010,TFCFA.OQ^C19,Tfcf,37648723667.47,dead-redo,55
+2010,TGT.N,Target Corp,36389369362.08,base,56
+2010,WBA.OQ^H25,Walgreens Hldg,36175586966.64,dead-redo,57
+2010,EMC.N^I16,EMC US,35635690340.0,dead-redo,58
+2010,CAT.N,Caterpillar Inc,35602947755.81,base,59
+2010,UNH.N,UnitedHealth Group Inc,35418267309.12,base,60
+2011,XOM.N,Exxonmobil Holdings Corp,368711734643.52,base,1
+2011,AAPL.OQ,Apple Inc.,295886577853.44,base,2
+2011,MSFT.OQ,Microsoft Corporation,238784653684.22,base,3
+2011,BRKb.N,Berkshire Hathaway Inc,198306699049.44,base,4
+2011,GE.N,General Electric Company,194874792220.0,base,5
+2011,WMT.OQ,Walmart Inc,192098352275.42,base,6
+2011,GOOGL.OQ,Alphabet Inc.,189936824462.58,base,7
+2011,CVX.N,Chevron Corporation,183634100077.5,base,8
+2011,IBM.N,International Business Machines Corporation,182328920466.12,base,9
+2011,PG.N,The Procter & Gamble Company,180174408988.0,base,10
+2011,T.N,AT&T Inc,173635800000.0,base,11
+2011,JNJ.N,Johnson & Johnson,169855790850.2,base,12
+2011,JPM.N,JPMorgan Chase & Co,165827476133.34,base,13
+2011,WFC.N,Wells Fargo & Co,163078157235.72,base,14
+2011,ORCL.N,Oracle Corporation,158140746000.0,base,15
+2011,KO.N,Coca-Cola Co,152720157895.94,base,16
+2011,PFE.N,Pfizer Inc.,140254247035.37,base,17
+2011,C.N,Citigroup Inc,137446045226.49,base,18
+2011,BAC.N,Bank of America Corporation,135423863621.319,base,19
+2011,INTC.OQ,Intel Corp,117305340000.0,base,20
+2011,SLB.N,SLB N.V.,113925707622.0,base,21
+2011,CSCO.OQ,Cisco Systems Inc,112130067997.43,base,22
+2011,MRK.N,Merck & Co Inc,111034945725.88,base,23
+2011,PM.N,Philip Morris International Inc,106196455242.39,base,24
+2011,PEP.OQ,"PepsiCo, Inc.",103537659851.47,base,25
+2011,VZ.N,Verizon Communications Inc,101142282537.18,base,26
+2011,COP.N,ConocoPhillips,100054188790.499,base,27
+2011,HPQ.N,HP Inc,92216918181.0,base,28
+2011,GS.N,Goldman Sachs Group Inc,85970682072.3199,base,29
+2011,MCD.N,McDonald's Corp,81097455366.64,base,30
+2011,AMZN.OQ,Amazon.com Inc,80790616260.0,base,31
+2011,QCOM.OQ,QUALCOMM Incorporated,80060630870.57,base,32
+2011,OXY.N,Occidental Petroleum Corp,79714667764.7999,base,33
+2011,ABT.N,Abbott Laboratories,74060042883.15,base,34
+2011,RTX.N,RTX Corporation,72690606439.68,base,35
+2011,UPS.N,United Parcel Service Inc,71776866010.0,base,36
+2011,DIS.N,The Walt Disney Company,71028320610.94,base,37
+2011,F.N,Ford Motor Co,64102419675.46,base,38
+2011,MMM.N,3M Company,61692338862.9,base,39
+2011,CMCSA.OQ,Comcast Corporation,60182259972.86,base,40
+2011,CAT.N,Caterpillar Inc,59832135393.24,base,41
+2011,HD.N,"The Home Depot, Inc.",57457051638.4,base,42
+2011,FCX.N,Freeport-McMoRan Inc,56547895857.54,base,43
+2011,MDLZ.OQ,Mondelez International Inc,55040835159.19,base,44
+2011,AMGN.OQ,Amgen Inc,51870365240.4,base,45
+2011,USB.N,U.S. Bancorp,51809370000.0,base,46
+2011,AXP.N,American Express Company,51665563756.0,base,47
+2011,MO.N,Altria Group Inc,51402310538.76,base,48
+2011,V.N,Visa Inc.,50444927990.1,base,49
+2011,BA.N,Boeing Co,47873462907.92,base,50
+2011,EMC.N^I16,EMC US,47615745828.72,dead-redo,51
+2011,CVS.N,CVS Health Corporation,47245476000.0,base,52
+2011,UNP.N,Union Pacific Corporation,45695160673.18,base,53
+2011,DD.N^I17,EIDP,45672086820.0,dead-redo,54
+2011,APA.OQ,APA Corporation,45545860000.0,base,55
+2011,BMY.N,Bristol-Myers Squibb Company,45325428359.28,base,56
+2011,MET.N,"MetLife, Inc.",43784719934.56,base,57
+2011,EMR.N,Emerson Electric Co,43112669938.4,base,58
+2011,TGT.N,Target Corp,42576955026.2,base,59
+2011,HON.OQ,Honeywell International Inc,41473977329.7599,base,60
+2012,XOM.N,Exxonmobil Holdings Corp,406272285923.4,base,1
+2012,AAPL.OQ,Apple Inc.,377518850145.0,base,2
+2012,MSFT.OQ,Microsoft Corporation,218380251910.92,base,3
+2012,IBM.N,International Business Machines Corporation,216724308731.84,base,4
+2012,CVX.N,Chevron Corporation,211893938883.2,base,5
+2012,GOOGL.OQ,Alphabet Inc.,209198930436.9,base,6
+2012,WMT.OQ,Walmart Inc,204659914592.16,base,7
+2012,BRKb.N,Berkshire Hathaway Inc,189215895103.4,base,8
+2012,GE.N,General Electric Company,189082156410.0,base,9
+2012,PG.N,The Procter & Gamble Company,183540566272.56,base,10
+2012,T.N,AT&T Inc,179202240000.0,base,11
+2012,JNJ.N,Johnson & Johnson,179089078600.44,base,12
+2012,PFE.N,Pfizer Inc.,166345961249.04,base,13
+2012,KO.N,Coca-Cola Co,158918117383.85,base,14
+2012,WFC.N,Wells Fargo & Co,145338364295.8,base,15
+2012,PM.N,Philip Morris International Inc,136318381655.76,base,16
+2012,ORCL.N,Oracle Corporation,128912719050.0,base,17
+2012,JPM.N,JPMorgan Chase & Co,126342208693.75,base,18
+2012,INTC.OQ,Intel Corp,123481000000.0,base,19
+2012,MRK.N,Merck & Co Inc,114906637043.9,base,20
+2012,VZ.N,Verizon Communications Inc,113583357118.719,base,21
+2012,PEP.OQ,"PepsiCo, Inc.",103732268362.4,base,22
+2012,MCD.N,McDonald's Corp,102659493744.61,base,23
+2012,CSCO.OQ,Cisco Systems Inc,97195620812.6399,base,24
+2012,COP.N,ConocoPhillips,96752324971.47,base,25
+2012,QCOM.OQ,QUALCOMM Incorporated,91949848102.2,base,26
+2012,SLB.N,SLB N.V.,91680626991.69,base,27
+2012,ABT.N,Abbott Laboratories,87594845350.94,base,28
+2012,AMZN.OQ,Amazon.com Inc,78717977119.5,base,29
+2012,C.N,Citigroup Inc,76922762452.59,base,30
+2012,OXY.N,Occidental Petroleum Corp,76064594818.4,base,31
+2012,UPS.N,United Parcel Service Inc,70627517610.13,base,32
+2012,V.N,Visa Inc.,69863313239.72,base,33
+2012,DIS.N,The Walt Disney Company,67369244512.5,base,34
+2012,RTX.N,RTX Corporation,66225947727.21,base,35
+2012,MDLZ.OQ,Mondelez International Inc,66005730908.96,base,36
+2012,HD.N,"The Home Depot, Inc.",64807536250.68,base,37
+2012,CMCSA.OQ,Comcast Corporation,64511140840.54,base,38
+2012,MO.N,Altria Group Inc,60972929674.8999,base,39
+2012,BMY.N,Bristol-Myers Squibb Company,59551563775.26943,outlier-fix,40
+2012,CAT.N,Caterpillar Inc,58583805431.3999,base,41
+2012,MMM.N,3M Company,57280035778.13,base,42
+2012,BAC.N,Bank of America Corporation,57099447285.84,base,43
+2012,AMGN.OQ,Amgen Inc,56282907897.7499,base,44
+2012,AXP.N,American Express Company,54787123251.39,base,45
+2012,BA.N,Boeing Co,54516246614.1,base,46
+2012,UNH.N,UnitedHealth Group Inc,54026222715.92,base,47
+2012,CVS.N,CVS Health Corporation,53080484001.02,base,48
+2012,USB.N,U.S. Bancorp,51622329552.5,base,49
+2012,UNP.N,Union Pacific Corporation,51177175049.32,base,50
+2012,HPQ.N,HP Inc,51108702882.72,base,51
+2012,LLY.N,Eli Lilly and Company,48116594330.6,base,52
+2012,MA.N,Mastercard Incorporated,47323843693.42,base,53
+2012,TFCFA.OQ^C19,Tfcf,46509239620.06,dead-redo,54
+2012,CL.N,Colgate-Palmolive Company,44716695049.83,base,55
+2012,GS.N,Goldman Sachs Group Inc,44519875622.46,base,56
+2012,EMC.N^I16,EMC US,44307871470.0,dead-redo,57
+2012,NKE.N,"NIKE, Inc.",44225511534.34,base,58
+2012,AIG.N,"American International Group, Inc.",44062003852.7999,base,59
+2012,DD.N^I17,EIDP,42971472690.0,dead-redo,60
+2013,AAPL.OQ,Apple Inc.,515524346190.0,base,1
+2013,XOM.N,Exxonmobil Holdings Corp,399372420000.0,base,2
+2013,GOOGL.OQ,Alphabet Inc.,237655749364.0,base,3
+2013,MSFT.OQ,Microsoft Corporation,232462694001.42,base,4
+2013,WMT.OQ,Walmart Inc,231624268387.8,base,5
+2013,BRKb.N,Berkshire Hathaway Inc,230843866989.2,base,6
+2013,GE.N,General Electric Company,223777642000.0,base,7
+2013,IBM.N,International Business Machines Corporation,221862237931.949,base,8
+2013,CVX.N,Chevron Corporation,216053222070.56,base,9
+2013,JNJ.N,Johnson & Johnson,196316170398.04,base,10
+2013,T.N,AT&T Inc,195335000000.0,base,11
+2013,PFE.N,Pfizer Inc.,190764280110.48,base,12
+2013,PG.N,The Procter & Gamble Company,189549265804.38,base,13
+2013,WFC.N,Wells Fargo & Co,184583815000.0,base,14
+2013,JPM.N,JPMorgan Chase & Co,169886640000.0,base,15
+2013,KO.N,Coca-Cola Co,168642072625.6,base,16
+2013,ORCL.N,Oracle Corporation,164232762930.0,base,17
+2013,PM.N,Philip Morris International Inc,144903761755.38,base,18
+2013,BAC.N,Bank of America Corporation,130665715920.0,base,19
+2013,VZ.N,Verizon Communications Inc,126567930000.0,base,20
+2013,MRK.N,Merck & Co Inc,125676573875.58,base,21
+2013,C.N,Citigroup Inc,124942125000.0,base,22
+2013,AMZN.OQ,Amazon.com Inc,116818740000.0,base,23
+2013,QCOM.OQ,QUALCOMM Incorporated,111111000000.0,base,24
+2013,CSCO.OQ,Cisco Systems Inc,107990111764.44,base,25
+2013,PEP.OQ,"PepsiCo, Inc.",107243353293.66,base,26
+2013,INTC.OQ,Intel Corp,106386880000.0,base,27
+2013,V.N,Visa Inc.,103849377162.64,base,28
+2013,CMCSA.OQ,Comcast Corporation,100861224334.3,base,29
+2013,HD.N,"The Home Depot, Inc.",94913994342.5999,base,30
+2013,SLB.N,SLB N.V.,94837462192.2,base,31
+2013,DIS.N,The Walt Disney Company,90555441302.9,base,32
+2013,MCD.N,McDonald's Corp,90478374165.96,base,33
+2013,RTX.N,RTX Corporation,76989740352.0,base,34
+2013,UPS.N,United Parcel Service Inc,72800559340.47,base,35
+2013,COP.N,ConocoPhillips,71874701693.61,base,36
+2013,EBAY.OQ,eBay Inc.,69344677907.54,base,37
+2013,AMGN.OQ,Amgen Inc,68409721339.85,base,38
+2013,MMM.N,3M Company,66426058865.18,base,39
+2013,MO.N,Altria Group Inc,65896952038.4399,base,40
+2013,AXP.N,American Express Company,65744900255.0,base,41
+2013,MA.N,Mastercard Incorporated,63406636997.5799,base,42
+2013,OXY.N,Occidental Petroleum Corp,63323974405.6,base,43
+2013,TFCFA.OQ^C19,Tfcf,62062502423.08,dead-redo,44
+2013,GS.N,Goldman Sachs Group Inc,61872777009.2,base,45
+2013,USB.N,U.S. Bancorp,61620930000.0,base,46
+2013,CAT.N,Caterpillar Inc,61247034095.5,base,47
+2013,CVS.N,CVS Health Corporation,61156080000.0,base,48
+2013,UNP.N,Union Pacific Corporation,60427219430.52,base,49
+2013,BA.N,Boeing Co,58116705372.81,base,50
+2013,LLY.N,Eli Lilly and Company,57454003621.57,base,51
+2013,GILD.OQ,"Gilead Sciences, Inc.",56869070214.06,base,52
+2013,UNH.N,UnitedHealth Group Inc,55712207767.5,base,53
+2013,BMY.N,Bristol-Myers Squibb Company,53994032577.89,base,54
+2013,AIG.N,"American International Group, Inc.",53855588050.56,base,55
+2013,EMC.N^I16,EMC US,51339182350.0,dead-redo,56
+2013,MON.N^F18,Monsanto,51084441070.74,dead-redo,57
+2013,HON.OQ,Honeywell International Inc,50723347748.5,base,58
+2013,ABT.N,Abbott Laboratories,50660400970.85,base,59
+2013,F.N,Ford Motor Co,50327138347.2,base,60
+2014,AAPL.OQ,Apple Inc.,493698366363.5,base,1
+2014,XOM.N,Exxonmobil Holdings Corp,432416250000.0,base,2
+2014,GOOGL.OQ,Alphabet Inc.,371879376706.079,base,3
+2014,MSFT.OQ,Microsoft Corporation,308428000000.0,base,4
+2014,BRKb.N,Berkshire Hathaway Inc,289791179780.0,base,5
+2014,GE.N,General Electric Company,278227647500.0,base,6
+2014,JNJ.N,Johnson & Johnson,256835539645.69,base,7
+2014,WMT.OQ,Walmart Inc,255334802451.3,base,8
+2014,CVX.N,Chevron Corporation,238742697833.82,base,9
+2014,WFC.N,Wells Fargo & Co,236679144000.0,base,10
+2014,JPM.N,JPMorgan Chase & Co,218642581000.0,base,11
+2014,PG.N,The Procter & Gamble Company,218376813286.94,base,12
+2014,IBM.N,International Business Machines Corporation,201458563677.99,base,13
+2014,PFE.N,Pfizer Inc.,197413417938.7,base,14
+2014,AMZN.OQ,Amazon.com Inc,182668230000.0,base,15
+2014,T.N,AT&T Inc,182648700000.0,base,16
+2014,KO.N,Coca-Cola Co,179551418323.78,base,17
+2014,BAC.N,Bank of America Corporation,171516513565.6,base,18
+2014,ORCL.N,Oracle Corporation,170181956560.0,base,19
+2014,C.N,Citigroup Inc,158336284000.0,base,20
+2014,MRK.N,Merck & Co Inc,144606260023.75,base,21
+2014,V.N,Visa Inc.,140520037027.02,base,22
+2014,VZ.N,Verizon Communications Inc,140238000000.0,base,23
+2014,META.OQ,"Meta Platforms, Inc.",138975052026.38,base,24
+2014,PM.N,Philip Morris International Inc,137818335405.74,base,25
+2014,DIS.N,The Walt Disney Company,134027716312.319,base,26
+2014,CMCSA.OQ,Comcast Corporation,133141923864.3,base,27
+2014,INTC.OQ,Intel Corp,128202090000.0,base,28
+2014,PEP.OQ,"PepsiCo, Inc.",125908521084.599,base,29
+2014,QCOM.OQ,QUALCOMM Incorporated,123690839999.999,base,30
+2014,CSCO.OQ,Cisco Systems Inc,117625585110.0,base,31
+2014,SLB.N,SLB N.V.,116117083374.579,base,32
+2014,HD.N,"The Home Depot, Inc.",115502780836.56,base,33
+2014,GILD.OQ,"Gilead Sciences, Inc.",115403276939.999,base,34
+2014,RTX.N,RTX Corporation,103218795242.849,base,35
+2014,BA.N,Boeing Co,102701142601.489,base,36
+2014,MA.N,Mastercard Incorporated,99612034534.16,base,37
+2014,MCD.N,McDonald's Corp,95930858111.2399,base,38
+2014,UPS.N,United Parcel Service Inc,95917132745.28,base,39
+2014,AXP.N,American Express Company,95174800000.0,base,40
+2014,MMM.N,3M Company,91621109493.0699,base,41
+2014,AMGN.OQ,Amgen Inc,87425225000.0,base,42
+2014,BMY.N,Bristol-Myers Squibb Company,86064797487.54,base,43
+2014,COP.N,ConocoPhillips,85487387146.44,base,44
+2014,CVS.N,CVS Health Corporation,83793893356.8,base,45
+2014,ABBV.N,AbbVie Inc.,82692996987.76,base,46
+2014,GS.N,Goldman Sachs Group Inc,80172096331.7399,base,47
+2014,TFCFA.OQ^C19,Tfcf,79888383613.38,dead-redo,48
+2014,UNP.N,Union Pacific Corporation,76965625096.18,base,49
+2014,MO.N,Altria Group Inc,75800561299.0,base,50
+2014,UNH.N,UnitedHealth Group Inc,75073958302.87,base,51
+2014,OXY.N,Occidental Petroleum Corp,74704600000.0,base,52
+2014,AIG.N,"American International Group, Inc.",74242651109.33,base,53
+2014,USB.N,U.S. Bancorp,72851304216.16,base,54
+2014,HON.OQ,Honeywell International Inc,70871641334.8799,base,55
+2014,CELG.OQ^K19,Celgene,69973525021.39,dead-redo,56
+2014,EBAY.OQ,eBay Inc.,69830610132.66,base,57
+2014,NKE.N,"NIKE, Inc.",69280301177.28,base,58
+2014,BIIB.OQ,Biogen Inc.,66217570666.8999,base,59
+2014,TWX.N^F18,Time Warner,61459650000.0,dead-redo,60
+2015,AAPL.OQ,Apple Inc.,641202957200.0,base,1
+2015,XOM.N,Exxonmobil Holdings Corp,389978830000.0,base,2
+2015,MSFT.OQ,Microsoft Corporation,385435798190.519,base,3
+2015,BRKb.N,Berkshire Hathaway Inc,367463712314.41,base,4
+2015,GOOG.OQ,Alphabet Inc.,357620063912.199,base,5
+2015,GOOGL.OQ,Alphabet Inc.,357620063912.199,base,6
+2015,JNJ.N,Johnson & Johnson,292563015036.24,base,7
+2015,WFC.N,Wells Fargo & Co,282815410000.0,base,8
+2015,WMT.OQ,Walmart Inc,276872011980.5,base,9
+2015,GE.N,General Electric Company,251657331795.659,base,10
+2015,PG.N,The Procter & Gamble Company,244234113004.56,base,11
+2015,JPM.N,JPMorgan Chase & Co,233599414737.54,base,12
+2015,META.OQ,"Meta Platforms, Inc.",218706670500.75,base,13
+2015,CVX.N,Chevron Corporation,212823977263.3,base,14
+2015,PFE.N,Pfizer Inc.,197399591235.21,base,15
+2015,VZ.N,Verizon Communications Inc,195118800000.0,base,16
+2015,ORCL.N,Oracle Corporation,194669299110.0,base,17
+2015,BAC.N,Bank of America Corporation,189258910320.4,base,18
+2015,KO.N,Coca-Cola Co,184577955541.14,base,19
+2015,INTC.OQ,Intel Corp,175800600000.0,base,20
+2015,T.N,AT&T Inc,175683690000.0,base,21
+2015,C.N,Citigroup Inc,164380031468.32,base,22
+2015,V.N,Visa Inc.,163922032430.52,base,23
+2015,MRK.N,Merck & Co Inc,163041448087.49,base,24
+2015,IBM.N,International Business Machines Corporation,160601460000.0,base,25
+2015,DIS.N,The Walt Disney Company,158972891437.5,base,26
+2015,CMCSA.OQ,Comcast Corporation,145558026424.86,base,27
+2015,AMZN.OQ,Amazon.com Inc,143461800000.0,base,28
+2015,GILD.OQ,"Gilead Sciences, Inc.",142270090000.0,base,29
+2015,PEP.OQ,"PepsiCo, Inc.",141339472528.8,base,30
+2015,CSCO.OQ,Cisco Systems Inc,141186168738.669,base,31
+2015,HD.N,"The Home Depot, Inc.",136302882810.5,base,32
+2015,PM.N,Philip Morris International Inc,125882000642.799,base,33
+2015,QCOM.OQ,QUALCOMM Incorporated,122859120000.0,base,34
+2015,AMGN.OQ,Amgen Inc,121516399999.999,base,35
+2015,SLB.N,SLB N.V.,109256013650.68,base,36
+2015,CVS.N,CVS Health Corporation,109021068662.7,base,37
+2015,UNP.N,Union Pacific Corporation,105456065719.41,base,38
+2015,ABBV.N,AbbVie Inc.,104992545229.77,base,39
+2015,RTX.N,RTX Corporation,104877173708.0,base,40
+2015,MMM.N,3M Company,104200181491.64,base,41
+2015,UPS.N,United Parcel Service Inc,99918880760.08,base,42
+2015,MA.N,Mastercard Incorporated,99450464752.8,base,43
+2015,BMY.N,Bristol-Myers Squibb Company,98713788979.41,base,44
+2015,UNH.N,UnitedHealth Group Inc,96727748771.26,base,45
+2015,MO.N,Altria Group Inc,96543107391.31,base,46
+2015,AXP.N,American Express Company,95159460000.0,base,47
+2015,BA.N,Boeing Co,92645313147.0499,base,48
+2015,KMI.N,"Kinder Morgan, Inc.",90977258511.93,base,49
+2015,MCD.N,McDonald's Corp,90760969880.98,base,50
+2015,CELG.OQ^K19,Celgene,90668899421.76,dead-redo,51
+2015,COP.N,ConocoPhillips,84834515138.24,base,52
+2015,GS.N,Goldman Sachs Group Inc,84674406292.89,base,53
+2015,WBA.OQ^H25,Walgreens Hldg,82838158216.0,dead-redo,54
+2015,NKE.N,"NIKE, Inc.",82100077745.66,base,55
+2015,BIIB.OQ,Biogen Inc.,80767510748.0699,base,56
+2015,TFCFA.OQ^C19,Tfcf,80547224537.16,dead-redo,57
+2015,USB.N,U.S. Bancorp,80066380000.0,base,58
+2015,HON.OQ,Honeywell International Inc,78461078874.75,base,59
+2015,LLY.N,Eli Lilly and Company,78006892979.02,base,60
+2016,AAPL.OQ,Apple Inc.,583612701620.0,base,1
+2016,GOOG.OQ,Alphabet Inc.,528447562921.91,base,2
+2016,GOOGL.OQ,Alphabet Inc.,528447562921.91,base,3
+2016,MSFT.OQ,Microsoft Corporation,443169421672.959,base,4
+2016,BRKb.N,Berkshire Hathaway Inc,325274641332.839,base,5
+2016,XOM.N,Exxonmobil Holdings Corp,324501057010.4,base,6
+2016,AMZN.OQ,Amazon.com Inc,316831551559.45,base,7
+2016,GE.N,General Electric Company,314902794850.0,base,8
+2016,META.OQ,"Meta Platforms, Inc.",295977857586.98,base,9
+2016,JNJ.N,Johnson & Johnson,284220449570.88,base,10
+2016,WFC.N,Wells Fargo & Co,277660706417.279,base,11
+2016,JPM.N,JPMorgan Chase & Co,243064999175.31,base,12
+2016,PG.N,The Procter & Gamble Company,214769551119.599,base,13
+2016,T.N,AT&T Inc,211690319999.999,base,14
+2016,PFE.N,Pfizer Inc.,199264503010.56,base,15
+2016,WMT.OQ,Walmart Inc,196276055244.199,base,16
+2016,V.N,Visa Inc.,188405570971.199,base,17
+2016,VZ.N,Verizon Communications Inc,188063316392.139,base,18
+2016,KO.N,Coca-Cola Co,186832402301.76,base,19
+2016,BAC.N,Bank of America Corporation,176259000862.93,base,20
+2016,DIS.N,The Walt Disney Company,173715932365.96,base,21
+2016,CVX.N,Chevron Corporation,169308021891.84,base,22
+2016,HD.N,"The Home Depot, Inc.",167677297031.75,base,23
+2016,INTC.OQ,Intel Corp,162569550000.0,base,24
+2016,C.N,Citigroup Inc,154162756305.0,base,25
+2016,ORCL.N,Oracle Corporation,153470566600.0,base,26
+2016,MRK.N,Merck & Co Inc,147554948496.34,base,27
+2016,GILD.OQ,"Gilead Sciences, Inc.",145833023021.34,base,28
+2016,PEP.OQ,"PepsiCo, Inc.",145568529637.84,base,29
+2016,CSCO.OQ,Cisco Systems Inc,137840933853.135,base,30
+2016,CMCSA.OQ,Comcast Corporation,137824539624.09,base,31
+2016,PM.N,Philip Morris International Inc,136202837105.79,base,32
+2016,IBM.N,International Business Machines Corporation,133506555540.12,base,33
+2016,AGN.N^E20,Allergan,123163915625.0,dead-redo,34
+2016,AMGN.OQ,Amgen Inc,122450042487.78,base,35
+2016,BMY.N,Bristol-Myers Squibb Company,114761415746.43,base,36
+2016,MO.N,Altria Group Inc,114095062389.01,base,37
+2016,UNH.N,UnitedHealth Group Inc,112123676293.4,base,38
+2016,MA.N,Mastercard Incorporated,109312766181.52,base,39
+2016,MCD.N,McDonald's Corp,108479671289.22,base,40
+2016,CVS.N,CVS Health Corporation,108262395702.33,base,41
+2016,MDT.N,Medtronic PLC,108161498136.24,base,42
+2016,NKE.N,"NIKE, Inc.",106524220000.0,base,43
+2016,BA.N,Boeing Co,96872933206.29,base,44
+2016,ABBV.N,AbbVie Inc.,96842407363.08,base,45
+2016,CELG.OQ^K19,Celgene,94089990943.92,dead-redo,46
+2016,LLY.N,Eli Lilly and Company,93366530018.74,base,47
+2016,MMM.N,3M Company,92750996829.68,base,48
+2016,WBA.OQ^H25,Walgreens Hldg,91860689800.005,dead-redo,49
+2016,SBUX.OQ,Starbucks Corp,89132544000.0,base,50
+2016,KHC.OQ,The Kraft Heinz Company,88291037896.16,base,51
+2016,SLB.N,SLB N.V.,87631666605.0,base,52
+2016,UPS.N,United Parcel Service Inc,85684609179.21,base,53
+2016,RTX.N,RTX Corporation,85216101417.59,base,54
+2016,HON.OQ,Honeywell International Inc,79820510265.83,base,55
+2016,GS.N,Goldman Sachs Group Inc,76874612657.4899,base,56
+2016,AIG.N,"American International Group, Inc.",76657665368.64,base,57
+2016,QCOM.OQ,QUALCOMM Incorporated,75132153789.94,base,58
+2016,USB.N,U.S. Bancorp,74637385235.54,base,59
+2016,MDLZ.OQ,Mondelez International Inc,71258269982.56,base,60
+2017,AAPL.OQ,Apple Inc.,608960249120.0,base,1
+2017,GOOGL.OQ,Alphabet Inc.,539067897721.81,base,2
+2017,GOOG.OQ,Alphabet Inc.,539067897721.81,base,3
+2017,MSFT.OQ,Microsoft Corporation,483160280132.14,base,4
+2017,BRKb.N,Berkshire Hathaway Inc,400566669540.78,base,5
+2017,XOM.N,Exxonmobil Holdings Corp,374280539604.76,base,6
+2017,AMZN.OQ,Amazon.com Inc,356313123601.49,base,7
+2017,META.OQ,"Meta Platforms, Inc.",331593368343.899,base,8
+2017,JNJ.N,Johnson & Johnson,313432460382.88,base,9
+2017,JPM.N,JPMorgan Chase & Co,308768424548.62,base,10
+2017,GE.N,General Electric Company,279545924000.0,base,11
+2017,WFC.N,Wells Fargo & Co,276779119817.97,base,12
+2017,T.N,AT&T Inc,261176730000.0,base,13
+2017,PG.N,The Procter & Gamble Company,224997451417.919,base,14
+2017,BAC.N,Bank of America Corporation,224376709653.4,base,15
+2017,CVX.N,Chevron Corporation,222190448964.0,base,16
+2017,VZ.N,Verizon Communications Inc,217610720357.76,base,17
+2017,WMT.OQ,Walmart Inc,212418913950.72,base,18
+2017,PFE.N,Pfizer Inc.,197100174687.36,base,19
+2017,V.N,Visa Inc.,181544797295.199,base,20
+2017,KO.N,Coca-Cola Co,178815297387.36,base,21
+2017,INTC.OQ,Intel Corp,171883530000.0,base,22
+2017,C.N,Citigroup Inc,169359468638.639,base,23
+2017,DIS.N,The Walt Disney Company,165862063544.04,base,24
+2017,CMCSA.OQ,Comcast Corporation,165225076805.699,base,25
+2017,HD.N,"The Home Depot, Inc.",163331022857.6,base,26
+2017,MRK.N,Merck & Co Inc,162312685625.789,base,27
+2017,IBM.N,International Business Machines Corporation,157832346920.49,base,28
+2017,ORCL.N,Oracle Corporation,157735472850.0,base,29
+2017,UNH.N,UnitedHealth Group Inc,152328667848.8,base,30
+2017,CSCO.OQ,Cisco Systems Inc,151697114985.479,base,31
+2017,PEP.OQ,"PepsiCo, Inc.",150058579845.6,base,32
+2017,PM.N,Philip Morris International Inc,141933001436.1,base,33
+2017,MO.N,Altria Group Inc,131877307168.32,base,34
+2017,SLB.N,SLB N.V.,116800340096.05,base,35
+2017,MA.N,Mastercard Incorporated,112502690723.5,base,36
+2017,AMGN.OQ,Amgen Inc,108768904777.33,base,37
+2017,MMM.N,3M Company,107403855226.569,base,38
+2017,KHC.OQ,The Kraft Heinz Company,106292035523.079,base,39
+2017,ABBV.N,AbbVie Inc.,101763700131.44,base,40
+2017,MCD.N,McDonald's Corp,101081598278.44,base,41
+2017,UPS.N,United Parcel Service Inc,100041223195.44,base,42
+2017,MDT.N,Medtronic PLC,97802159891.3,base,43
+2017,BMY.N,Bristol-Myers Squibb Company,97666678044.2399,base,44
+2017,QCOM.OQ,QUALCOMM Incorporated,96293011796.8,base,45
+2017,BA.N,Boeing Co,96080387623.36,base,46
+2017,GS.N,Goldman Sachs Group Inc,95217105010.65,base,47
+2017,GILD.OQ,"Gilead Sciences, Inc.",94343029244.31,base,48
+2017,CELG.OQ^K19,Celgene,92055415387.5,dead-redo,49
+2017,RTX.N,RTX Corporation,90261731408.94,base,50
+2017,WBA.OQ^H25,Walgreens Hldg,89547822738.8799,dead-redo,51
+2017,HON.OQ,Honeywell International Inc,88292147537.65,base,52
+2017,USB.N,U.S. Bancorp,87312375383.75,base,53
+2017,CHTR.OQ,"Charter Communications, Inc.",86855499376.72,base,54
+2017,UNP.N,Union Pacific Corporation,85443976949.76,base,55
+2017,NKE.N,"NIKE, Inc.",84654020690.98,base,56
+2017,CVS.N,CVS Health Corporation,84152715220.34,base,57
+2017,LLY.N,Eli Lilly and Company,81195392316.5,base,58
+2017,AGN.N^E20,Allergan,81088580222.78,dead-redo,59
+2017,SBUX.OQ,Starbucks Corp,80803808000.0,base,60
+2018,AAPL.OQ,Apple Inc.,884436585120.0,base,1
+2018,GOOG.OQ,Alphabet Inc.,742799349724.81,base,2
+2018,GOOGL.OQ,Alphabet Inc.,742799349724.81,base,3
+2018,MSFT.OQ,Microsoft Corporation,663069027260.25,base,4
+2018,AMZN.OQ,Amazon.com Inc,572950834796.75,base,5
+2018,META.OQ,"Meta Platforms, Inc.",527171823062.16,base,6
+2018,BRKb.N,Berkshire Hathaway Inc,486521577228.54,base,7
+2018,JPM.N,JPMorgan Chase & Co,374556876037.15,base,8
+2018,JNJ.N,Johnson & Johnson,374044186561.5,base,9
+2018,XOM.N,Exxonmobil Holdings Corp,360281129727.31,base,10
+2018,BAC.N,Bank of America Corporation,308684862686.899,base,11
+2018,WFC.N,Wells Fargo & Co,300823131919.41,base,12
+2018,WMT.OQ,Walmart Inc,292061186662.55,base,13
+2018,V.N,Visa Inc.,259502152054.2,base,14
+2018,CVX.N,Chevron Corporation,242322125734.24,base,15
+2018,T.N,AT&T Inc,236597060000.0,base,16
+2018,PG.N,The Procter & Gamble Company,228528985948.9,base,17
+2018,HD.N,"The Home Depot, Inc.",219571772830.57,base,18
+2018,INTC.OQ,Intel Corp,219258000000.0,base,19
+2018,VZ.N,Verizon Communications Inc,218372467951.08,base,20
+2018,PFE.N,Pfizer Inc.,217208174631.479,base,21
+2018,UNH.N,UnitedHealth Group Inc,214318957020.84,base,22
+2018,C.N,Citigroup Inc,196607988645.639,base,23
+2018,KO.N,Coca-Cola Co,194030789570.639,base,24
+2018,ORCL.N,Oracle Corporation,193029641260.0,base,25
+2018,CSCO.OQ,Cisco Systems Inc,192109155738.639,base,26
+2018,CMCSA.OQ,Comcast Corporation,190749944258.19,base,27
+2018,BA.N,Boeing Co,176791528767.319,base,28
+2018,DIS.N,The Walt Disney Company,168852903289.199,base,29
+2018,DD.N,"DuPont de Nemours, Inc.",168245299765.9,base,30
+2018,PEP.OQ,"PepsiCo, Inc.",167898244727.42,base,31
+2018,PM.N,Philip Morris International Inc,162138818056.93,base,32
+2018,MA.N,Mastercard Incorporated,160821593096.669,base,33
+2018,ABBV.N,AbbVie Inc.,157104650713.4,base,34
+2018,GE.N,General Electric Company,155924088300.0,base,35
+2018,MRK.N,Merck & Co Inc,153167838863.699,base,36
+2018,IBM.N,International Business Machines Corporation,142246145456.25,base,37
+2018,MMM.N,3M Company,140178521606.68,base,38
+2018,MCD.N,McDonald's Corp,138088487553.36,base,39
+2018,MO.N,Altria Group Inc,134985337821.719,base,40
+2018,AMGN.OQ,Amgen Inc,128486171775.0,base,41
+2018,NVDA.OQ,NVIDIA Corporation,120806100000.0,base,42
+2018,HON.OQ,Honeywell International Inc,116329330887.88,base,43
+2018,MDT.N,Medtronic PLC,111271070579.999,base,44
+2018,AVGO.OQ,Broadcom Inc,109303874449.75,base,45
+2018,UNP.N,Union Pacific Corporation,106881781700.7,base,46
+2018,UPS.N,United Parcel Service Inc,106570317662.21,base,47
+2018,TXN.OQ,Texas Instruments Inc,104045631591.87,base,48
+2018,NKE.N,"NIKE, Inc.",103585106517.48,base,49
+2018,RTX.N,RTX Corporation,102344721075.36,base,50
+2018,ABT.N,Abbott Laboratories,102329914388.73,base,51
+2018,BMY.N,Bristol-Myers Squibb Company,100346058361.76,base,52
+2018,ACN.N,Accenture PLC,98863707755.04,base,53
+2018,GILD.OQ,"Gilead Sciences, Inc.",96922800000.0,base,54
+2018,GS.N,Goldman Sachs Group Inc,96439102135.93,base,55
+2018,SLB.N,SLB N.V.,96211006587.5199,base,56
+2018,QCOM.OQ,QUALCOMM Incorporated,96115534462.8,base,57
+2018,MS.N,Morgan Stanley,94354257212.59,base,58
+2018,CAT.N,Caterpillar Inc,93851151234.8799,base,59
+2018,KHC.OQ,The Kraft Heinz Company,93846392728.72,base,60
+2019,MSFT.OQ,Microsoft Corporation,776219238584.32,base,1
+2019,AMZN.OQ,Amazon.com Inc,752586284413.64,base,2
+2019,AAPL.OQ,Apple Inc.,749393252160.0,base,3
+2019,GOOG.OQ,Alphabet Inc.,730406977923.29,base,4
+2019,GOOGL.OQ,Alphabet Inc.,730406977923.29,base,5
+2019,BRKb.N,Berkshire Hathaway Inc,499294399000.8,base,6
+2019,META.OQ,"Meta Platforms, Inc.",389915503196.16,base,7
+2019,JNJ.N,Johnson & Johnson,342622685539.75,base,8
+2019,JPM.N,JPMorgan Chase & Co,330246539099.75,base,9
+2019,XOM.N,Exxonmobil Holdings Corp,295054021677.3,base,10
+2019,V.N,Visa Inc.,292982962494.6,base,11
+2019,WMT.OQ,Walmart Inc,271176973907.06,base,12
+2019,PFE.N,Pfizer Inc.,250850000000.0,base,13
+2019,BAC.N,Bank of America Corporation,241345387795.2,base,14
+2019,UNH.N,UnitedHealth Group Inc,234245707358.0,base,15
+2019,VZ.N,Verizon Communications Inc,231475485958.02,base,16
+2019,PG.N,The Procter & Gamble Company,228344195837.52,base,17
+2019,WFC.N,Wells Fargo & Co,220958041245.919,base,18
+2019,T.N,AT&T Inc,214992120000.0,base,19
+2019,INTC.OQ,Intel Corp,214873120000.0,base,20
+2019,CVX.N,Chevron Corporation,211503614904.61,base,21
+2019,KO.N,Coca-Cola Co,199758197233.139,base,22
+2019,MRK.N,Merck & Co Inc,196562459635.0,base,23
+2019,MA.N,Mastercard Incorporated,195962405850.94,base,24
+2019,HD.N,"The Home Depot, Inc.",194741880067.139,base,25
+2019,CSCO.OQ,Cisco Systems Inc,193101556303.5,base,26
+2019,BA.N,Boeing Co,183886961335.89,base,27
+2019,ORCL.N,Oracle Corporation,162290917180.0,base,28
+2019,DIS.N,The Walt Disney Company,162220474947.08,base,29
+2019,CMCSA.OQ,Comcast Corporation,155557331881.139,base,30
+2019,PEP.OQ,"PepsiCo, Inc.",154256151040.0,base,31
+2019,MCD.N,McDonald's Corp,135726458615.0,base,32
+2019,ABBV.N,AbbVie Inc.,134221222858.21,base,33
+2019,C.N,Citigroup Inc,130727583599.89,base,34
+2019,DD.N,"DuPont de Nemours, Inc.",123704666766.439,base,35
+2019,AMGN.OQ,Amgen Inc,122282372923.6,base,36
+2019,ABT.N,Abbott Laboratories,122065145724.0,base,37
+2019,LLY.N,Eli Lilly and Company,121694940654.4,base,38
+2019,MDT.N,Medtronic PLC,117864898666.48,base,39
+2019,NKE.N,"NIKE, Inc.",117615304549.12,base,40
+2019,NFLX.OQ,"Netflix, Inc.",116859980473.02,base,41
+2019,MMM.N,3M Company,110097028329.599,base,42
+2019,ADBE.OQ,Adobe Inc,109620146158.39,base,43
+2019,PM.N,Philip Morris International Inc,104635003776.31,base,44
+2019,CRM.N,"Salesforce, Inc.",103695750000.0,base,45
+2019,AVGO.OQ,Broadcom Inc,103247246112.51,base,46
+2019,IBM.N,International Business Machines Corporation,102822552941.31,base,47
+2019,UNP.N,Union Pacific Corporation,101514942458.04,base,48
+2019,PYPL.OQ,"PayPal Holdings, Inc.",101044291796.0,base,49
+2019,HON.OQ,Honeywell International Inc,97592206984.49,base,50
+2019,RTX.N,RTX Corporation,93504508968.3,base,51
+2019,MO.N,Altria Group Inc,92409780009.45,base,52
+2019,COST.OQ,Costco Wholesale Corp,90092147640.0,base,53
+2019,ACN.N,Accenture PLC,89618897971.05,base,54
+2019,TXN.OQ,Texas Instruments Inc,89269445173.85,base,55
+2019,TMO.N,Thermo Fisher Scientific Inc,88333309738.44,base,56
+2019,TFCFA.OQ^C19,Tfcf,87859274666.78,dead-redo,57
+2019,TFCF.OQ^C19,Tfcf,87859274666.78,dead-redo,58
+2019,LIN.OQ,Linde PLC,86625778246.7999,base,59
+2019,BMY.N,Bristol-Myers Squibb Company,85576181720.8199,base,60
+2020,AAPL.OQ,Apple Inc.,1316742509450.0,base,1
+2020,MSFT.OQ,Microsoft Corporation,1225338758363.16,base,2
+2020,GOOG.OQ,Alphabet Inc.,943511366356.3,base,3
+2020,GOOGL.OQ,Alphabet Inc.,943511366356.3,base,4
+2020,AMZN.OQ,Amazon.com Inc,941028081532.2,base,5
+2020,META.OQ,"Meta Platforms, Inc.",598239387273.18,base,6
+2020,BRKb.N,Berkshire Hathaway Inc,558195082935.929,base,7
+2020,JPM.N,JPMorgan Chase & Co,442526657927.16,base,8
+2020,V.N,Visa Inc.,412312376325.68,base,9
+2020,JNJ.N,Johnson & Johnson,384174414082.029,base,10
+2020,WMT.OQ,Walmart Inc,337453586887.839,base,11
+2020,BAC.N,Bank of America Corporation,320585627771.64,base,12
+2020,MA.N,Mastercard Incorporated,306079155819.269,base,13
+2020,PG.N,The Procter & Gamble Company,304755180414.44,base,14
+2020,XOM.N,Exxonmobil Holdings Corp,299985420079.4,base,15
+2020,T.N,AT&T Inc,283872300000.0,base,16
+2020,UNH.N,UnitedHealth Group Inc,277118866732.5,base,17
+2020,DIS.N,The Walt Disney Company,267115426429.8,base,18
+2020,INTC.OQ,Intel Corp,264654000000.0,base,19
+2020,VZ.N,Verizon Communications Inc,252489625959.449,base,20
+2020,HD.N,"The Home Depot, Inc.",239611941853.199,base,21
+2020,KO.N,Coca-Cola Co,235604180821.23,base,22
+2020,MRK.N,Merck & Co Inc,234332380429.68,base,23
+2020,CVX.N,Chevron Corporation,228551672504.43,base,24
+2020,WFC.N,Wells Fargo & Co,227328057161.25,base,25
+2020,PFE.N,Pfizer Inc.,216605549326.96,base,26
+2020,CMCSA.OQ,Comcast Corporation,206571181843.65,base,27
+2020,CSCO.OQ,Cisco Systems Inc,205410353639.4,base,28
+2020,PEP.OQ,"PepsiCo, Inc.",189392207607.16,base,29
+2020,BA.N,Boeing Co,187589573783.56,base,30
+2020,C.N,Citigroup Inc,177340843746.2,base,31
+2020,ORCL.N,Oracle Corporation,173052663550.0,base,32
+2020,ADBE.OQ,Adobe Inc,161890409207.87,base,33
+2020,NKE.N,"NIKE, Inc.",159163496889.6,base,34
+2020,ABT.N,Abbott Laboratories,153767223549.75,base,35
+2020,MDT.N,Medtronic PLC,153553647660.16,base,36
+2020,MCD.N,McDonald's Corp,151213608927.54,base,37
+2020,BMY.N,Bristol-Myers Squibb Company,148481269685.62,base,38
+2020,CRM.N,"Salesforce, Inc.",148120130000.0,base,39
+2020,NVDA.OQ,NVIDIA Corporation,146824920000.0,base,40
+2020,NFLX.OQ,"Netflix, Inc.",144722820906.69,base,41
+2020,AMGN.OQ,Amgen Inc,142663468194.1,base,42
+2020,ACN.N,Accenture PLC,138057212407.5,base,43
+2020,PM.N,Philip Morris International Inc,132544958962.989,base,44
+2020,ABBV.N,AbbVie Inc.,132432599400.75,base,45
+2020,RTX.N,RTX Corporation,132201005471.599,base,46
+2020,TMO.N,Thermo Fisher Scientific Inc,130871506755.99,base,47
+2020,PYPL.OQ,"PayPal Holdings, Inc.",130041813726.75,base,48
+2020,HON.OQ,Honeywell International Inc,129180511284.209,base,49
+2020,COST.OQ,Costco Wholesale Corp,128767930694.23,base,50
+2020,AVGO.OQ,Broadcom Inc,128244256050.709,base,51
+2020,LLY.N,Eli Lilly and Company,126938889233.91,base,52
+2020,UNP.N,Union Pacific Corporation,126531813038.95,base,53
+2020,TXN.OQ,Texas Instruments Inc,121118853890.37,base,54
+2020,IBM.N,International Business Machines Corporation,119933024020.68,base,55
+2020,NEE.N,"NextEra Energy, Inc.",116631705973.86,base,56
+2020,LIN.OQ,Linde PLC,113204465392.98,base,57
+2020,LMT.N,Lockheed Martin Corp,112650862206.66,base,58
+2020,DHR.N,Danaher Corporation,107857163960.9,base,59
+2020,SBUX.OQ,Starbucks Corp,105522350000.0,base,60
+2021,AAPL.OQ,Apple Inc.,2232278767470.0,base,1
+2021,MSFT.OQ,Microsoft Corporation,1681605513424.98,base,2
+2021,AMZN.OQ,Amazon.com Inc,1634168480448.19,base,3
+2021,GOOG.OQ,Alphabet Inc.,1185281042276.96,base,4
+2021,GOOGL.OQ,Alphabet Inc.,1185281042276.96,base,5
+2021,META.OQ,"Meta Platforms, Inc.",778039626010.36,base,6
+2021,TSLA.OQ,Tesla Inc,668905110256.11,base,7
+2021,BRKb.N,Berkshire Hathaway Inc,543678513841.28,base,8
+2021,V.N,Visa Inc.,511232359138.11,base,9
+2021,JNJ.N,Johnson & Johnson,414309565719.36,base,10
+2021,WMT.OQ,Walmart Inc,407841566232.9,base,11
+2021,JPM.N,JPMorgan Chase & Co,387335163215.41,base,12
+2021,MA.N,Mastercard Incorporated,355842533715.12,base,13
+2021,PG.N,The Procter & Gamble Company,342628916762.16,base,14
+2021,UNH.N,UnitedHealth Group Inc,332732446582.8,base,15
+2021,DIS.N,The Walt Disney Company,328023679003.66,base,16
+2021,NVDA.OQ,NVIDIA Corporation,323241800000.0,base,17
+2021,HD.N,"The Home Depot, Inc.",285966699449.22,base,18
+2021,PYPL.OQ,"PayPal Holdings, Inc.",274410221667.8,base,19
+2021,BAC.N,Bank of America Corporation,262206175522.55,base,20
+2021,VZ.N,Verizon Communications Inc,243113044061.25,base,21
+2021,CMCSA.OQ,Comcast Corporation,240026383412.8,base,22
+2021,ADBE.OQ,Adobe Inc,239917057777.96,base,23
+2021,NFLX.OQ,"Netflix, Inc.",239486754480.53,base,24
+2021,KO.N,Coca-Cola Co,235671314122.08,base,25
+2021,NKE.N,"NIKE, Inc.",223026041856.17,base,26
+2021,MRK.N,Merck & Co Inc,206956816946.6,base,27
+2021,PEP.OQ,"PepsiCo, Inc.",204944146725.5,base,28
+2021,T.N,AT&T Inc,204943760000.0,base,29
+2021,PFE.N,Pfizer Inc.,204662234937.96,base,30
+2021,CRM.N,"Salesforce, Inc.",204223457394.88,base,31
+2021,INTC.OQ,Intel Corp,204162360000.0,base,32
+2021,ABT.N,Abbott Laboratories,194055869503.69,base,33
+2021,ORCL.N,Oracle Corporation,190449559460.0,base,34
+2021,ABBV.N,AbbVie Inc.,189133981555.85,base,35
+2021,CSCO.OQ,Cisco Systems Inc,189091769444.75,base,36
+2021,TMO.N,Thermo Fisher Scientific Inc,184605005263.979,base,37
+2021,AVGO.OQ,Broadcom Inc,178079338716.3,base,38
+2021,XOM.N,Exxonmobil Holdings Corp,174287810179.08,base,39
+2021,ACN.N,Accenture PLC,172695107307.3,base,40
+2021,QCOM.OQ,QUALCOMM Incorporated,172296540000.0,base,41
+2021,TMUS.OQ,T-Mobile US Inc,167374036743.6,base,42
+2021,COST.OQ,Costco Wholesale Corp,166896671182.62,base,43
+2021,CVX.N,Chevron Corporation,162570066548.85,base,44
+2021,LLY.N,Eli Lilly and Company,161509237006.32,base,45
+2021,MCD.N,McDonald's Corp,159885915805.04,base,46
+2021,DHR.N,Danaher Corporation,157803250519.38,base,47
+2021,MDT.N,Medtronic PLC,157672776825.86,base,48
+2021,NEE.N,"NextEra Energy, Inc.",151142568666.6,base,49
+2021,TXN.OQ,Texas Instruments Inc,150661841796.9,base,50
+2021,HON.OQ,Honeywell International Inc,149248562853.6,base,51
+2021,UPS.N,United Parcel Service Inc,145564620337.2,base,52
+2021,UNP.N,Union Pacific Corporation,140312975070.3,base,53
+2021,BMY.N,Bristol-Myers Squibb Company,140172386661.54,base,54
+2021,LIN.OQ,Linde PLC,137905400871.94,base,55
+2021,AMGN.OQ,Amgen Inc,133852207271.04,base,56
+2021,PM.N,Philip Morris International Inc,128930186424.23,base,57
+2021,C.N,Citigroup Inc,128373633745.48,base,58
+2021,CHTR.OQ,"Charter Communications, Inc.",128162737757.599,base,59
+2021,SBUX.OQ,Starbucks Corp,125562426000.0,base,60
+2022,AAPL.OQ,Apple Inc.,2901644912070.0,base,1
+2022,MSFT.OQ,Microsoft Corporation,2525083982926.08,base,2
+2022,GOOG.OQ,Alphabet Inc.,1921854645843.66,base,3
+2022,GOOGL.OQ,Alphabet Inc.,1921854645843.66,base,4
+2022,AMZN.OQ,Amazon.com Inc,1691002595270.8,base,5
+2022,TSLA.OQ,Tesla Inc,1061287010296.55,base,6
+2022,META.OQ,"Meta Platforms, Inc.",935644813206.6,base,7
+2022,NVDA.OQ,NVIDIA Corporation,735275000000.0,base,8
+2022,BRKb.N,Berkshire Hathaway Inc,669122034349.0,base,9
+2022,UNH.N,UnitedHealth Group Inc,472941186675.0,base,10
+2022,JPM.N,JPMorgan Chase & Co,467966380759.35,base,11
+2022,V.N,Visa Inc.,456442159327.83,base,12
+2022,JNJ.N,Johnson & Johnson,450358363486.829,base,13
+2022,HD.N,"The Home Depot, Inc.",433369700846.77,base,14
+2022,WMT.OQ,Walmart Inc,401352474088.02,base,15
+2022,PG.N,The Procter & Gamble Company,392112008187.48,base,16
+2022,BAC.N,Bank of America Corporation,364109898583.68,base,17
+2022,MA.N,Mastercard Incorporated,352133600000.0,base,18
+2022,PFE.N,Pfizer Inc.,331439772611.899,base,19
+2022,DIS.N,The Walt Disney Company,281536729785.72,base,20
+2022,AVGO.OQ,Broadcom Inc,274730467046.879,base,21
+2022,ACN.N,Accenture PLC,272911853534.45,base,22
+2022,ADBE.OQ,Adobe Inc,269807147999.999,base,23
+2022,NFLX.OQ,"Netflix, Inc.",267461134181.08,base,24
+2022,CSCO.OQ,Cisco Systems Inc,267269727390.349,base,25
+2022,LLY.N,Eli Lilly and Company,264229950794.46,base,26
+2022,NKE.N,"NIKE, Inc.",263554483150.909,base,27
+2022,TMO.N,Thermo Fisher Scientific Inc,262924645569.88,base,28
+2022,XOM.N,Exxonmobil Holdings Corp,259051954878.41,base,29
+2022,KO.N,Coca-Cola Co,255752872173.56,base,30
+2022,COST.OQ,Costco Wholesale Corp,251736622302.2,base,31
+2022,CRM.N,"Salesforce, Inc.",250318050000.0,base,32
+2022,ABT.N,Abbott Laboratories,248868708017.06,base,33
+2022,PEP.OQ,"PepsiCo, Inc.",240180642728.53,base,34
+2022,ABBV.N,AbbVie Inc.,239371014961.0,base,35
+2022,ORCL.N,Oracle Corporation,238404759373.979,base,36
+2022,DHR.N,Danaher Corporation,235102935340.68,base,37
+2022,CMCSA.OQ,Comcast Corporation,228157482257.25,base,38
+2022,CVX.N,Chevron Corporation,226213942594.65,base,39
+2022,PYPL.OQ,"PayPal Holdings, Inc.",221568331835.76,base,40
+2022,VZ.N,Verizon Communications Inc,215122916036.16,base,41
+2022,INTC.OQ,Intel Corp,209450500000.0,base,42
+2022,QCOM.OQ,QUALCOMM Incorporated,204814400000.0,base,43
+2022,MCD.N,McDonald's Corp,200314081615.889,base,44
+2022,MRK.N,Merck & Co Inc,193588343255.04,base,45
+2022,WFC.N,Wells Fargo & Co,191307418564.659,base,46
+2022,UPS.N,United Parcel Service Inc,186291928431.0,base,47
+2022,NEE.N,"NextEra Energy, Inc.",183185119095.84,base,48
+2022,INTU.OQ,Intuit Inc.,182138613418.0,base,49
+2022,LIN.OQ,Linde PLC,177564335460.33,base,50
+2022,MS.N,Morgan Stanley,176139477404.639,base,51
+2022,T.N,AT&T Inc,175668600000.0,base,52
+2022,LOW.N,Lowe's Companies Inc,174150173412.72,base,53
+2022,TXN.OQ,Texas Instruments Inc,174056954078.09,base,54
+2022,AMD.OQ,"Advanced Micro Devices, Inc.",173775144474.5,base,55
+2022,UNP.N,Union Pacific Corporation,161959675101.0,base,56
+2022,SCHW.N,The Charles Schwab Corporation,158999455795.0,base,57
+2022,PM.N,Philip Morris International Inc,147898629600.0,base,58
+2022,TMUS.OQ,T-Mobile US Inc,144865228293.42,base,59
+2022,HON.OQ,Honeywell International Inc,143543074517.25,base,60
+2023,AAPL.OQ,Apple Inc.,2066941771740.0,base,1
+2023,MSFT.OQ,Microsoft Corporation,1787731749394.07,base,2
+2023,GOOGL.OQ,Alphabet Inc.,1145003890000.0,base,3
+2023,GOOG.OQ,Alphabet Inc.,1145003890000.0,base,4
+2023,AMZN.OQ,Amazon.com Inc,856938950784.0,base,5
+2023,BRKb.N,Berkshire Hathaway Inc,681920932605.96,base,6
+2023,UNH.N,UnitedHealth Group Inc,495373191523.139,base,7
+2023,JNJ.N,Johnson & Johnson,461848529176.55,base,8
+2023,XOM.N,Exxonmobil Holdings Corp,454215400000.0,base,9
+2023,V.N,Visa Inc.,428336204556.959,base,10
+2023,JPM.N,JPMorgan Chase & Co,393342775480.8,base,11
+2023,TSLA.OQ,Tesla Inc,388971946667.82,base,12
+2023,WMT.OQ,Walmart Inc,382379279656.66,base,13
+2023,NVDA.OQ,NVIDIA Corporation,359504399999.999,base,14
+2023,PG.N,The Procter & Gamble Company,359151732000.0,base,15
+2023,LLY.N,Eli Lilly and Company,347613082936.0,base,16
+2023,CVX.N,Chevron Corporation,347068782621.54,base,17
+2023,MA.N,Mastercard Incorporated,334328407560.75,base,18
+2023,HD.N,"The Home Depot, Inc.",321920096908.92,base,19
+2023,META.OQ,"Meta Platforms, Inc.",315555188424.08,base,20
+2023,PFE.N,Pfizer Inc.,287626236875.88,base,21
+2023,ABBV.N,AbbVie Inc.,285804134897.88,base,22
+2023,MRK.N,Merck & Co Inc,281302183315.3,base,23
+2023,KO.N,Coca-Cola Co,275082288723.04,base,24
+2023,BAC.N,Bank of America Corporation,265702955755.68,base,25
+2023,PEP.OQ,"PepsiCo, Inc.",248896945697.94,base,26
+2023,AVGO.OQ,Broadcom Inc,233652677458.2,base,27
+2023,ORCL.N,Oracle Corporation,220391720220.0,base,28
+2023,TMO.N,Thermo Fisher Scientific Inc,215978171284.33,base,29
+2023,COST.OQ,Costco Wholesale Corp,202562304934.0,base,30
+2023,CSCO.OQ,Cisco Systems Inc,195710029921.32,base,31
+2023,DHR.N,Danaher Corporation,193215860364.84,base,32
+2023,MCD.N,McDonald's Corp,193015668258.759,base,33
+2023,ABT.N,Abbott Laboratories,191426964976.83,base,34
+2023,NKE.N,"NIKE, Inc.",181431374640.83,base,35
+2023,ACN.N,Accenture PLC,175684390808.919,base,36
+2023,TMUS.OQ,T-Mobile US Inc,174181578760.0,base,37
+2023,NEE.N,"NextEra Energy, Inc.",166126881307.199,base,38
+2023,VZ.N,Verizon Communications Inc,165472807411.8,base,39
+2023,LIN.OQ,Linde PLC,160663461847.02,base,40
+2023,DIS.N,The Walt Disney Company,158433671917.44,base,41
+2023,WFC.N,Wells Fargo & Co,157335169178.419,base,42
+2023,PM.N,Philip Morris International Inc,156895975289.05,base,43
+2023,ADBE.OQ,Adobe Inc,156452797000.0,base,44
+2023,SCHW.N,The Charles Schwab Corporation,155424720112.72,base,45
+2023,BMY.N,Bristol-Myers Squibb Company,152977236966.65,base,46
+2023,CMCSA.OQ,Comcast Corporation,151189602029.18,base,47
+2023,UPS.N,United Parcel Service Inc,150357372586.72,base,48
+2023,TXN.OQ,Texas Instruments Inc,149948998256.639,base,49
+2023,RTX.N,RTX Corporation,148358533413.0,base,50
+2023,COP.N,ConocoPhillips,147036385788.0,base,51
+2023,HON.OQ,Honeywell International Inc,144078654317.6,base,52
+2023,MS.N,Morgan Stanley,143693102803.38,base,53
+2023,AMGN.OQ,Amgen Inc,140139242663.84,base,54
+2023,CRM.N,"Salesforce, Inc.",132590000000.0,base,55
+2023,NFLX.OQ,"Netflix, Inc.",131227643270.72,base,56
+2023,T.N,AT&T Inc,131208070000.0,base,57
+2023,LMT.N,Lockheed Martin Corp,127496362259.87,base,58
+2023,DE.N,Deere & Co,127409058473.04,base,59
+2023,IBM.N,International Business Machines Corporation,127382363283.069,base,60
+2024,AAPL.OQ,Apple Inc.,2870346373440.0,base,1
+2024,MSFT.OQ,Microsoft Corporation,2756305840000.0,base,2
+2024,GOOG.OQ,Alphabet Inc.,1729508690000.0,base,3
+2024,GOOGL.OQ,Alphabet Inc.,1729508690000.0,base,4
+2024,AMZN.OQ,Amazon.com Inc,1556723190000.0,base,5
+2024,NVDA.OQ,NVIDIA Corporation,1189749600000.0,base,6
+2024,META.OQ,"Meta Platforms, Inc.",889917765464.28,base,7
+2024,TSLA.OQ,Tesla Inc,789707651952.22,base,8
+2024,BRKb.N,Berkshire Hathaway Inc,788575294510.78,base,9
+2024,LLY.N,Eli Lilly and Company,562179745751.4,base,10
+2024,V.N,Visa Inc.,520329218775.48,base,11
+2024,AVGO.OQ,Broadcom Inc,508110410781.22,base,12
+2024,UNH.N,UnitedHealth Group Inc,498849207526.62,base,13
+2024,JPM.N,JPMorgan Chase & Co,497484715319.28,base,14
+2024,WMT.OQ,Walmart Inc,428845906550.87,base,15
+2024,XOM.N,Exxonmobil Holdings Corp,406471560000.0,base,16
+2024,MA.N,Mastercard Incorporated,394045260000.0,base,17
+2024,JNJ.N,Johnson & Johnson,385092360841.4,base,18
+2024,PG.N,The Procter & Gamble Company,349988351571.96,base,19
+2024,HD.N,"The Home Depot, Inc.",343444957127.519,base,20
+2024,COST.OQ,Costco Wholesale Corp,288711893870.399,base,21
+2024,MRK.N,Merck & Co Inc,286952774032.16,base,22
+2024,ORCL.N,Oracle Corporation,286052823320.0,base,23
+2024,ABBV.N,AbbVie Inc.,282168190624.22,base,24
+2024,CVX.N,Chevron Corporation,276687480000.0,base,25
+2024,BAC.N,Bank of America Corporation,268275515274.599,base,26
+2024,ADBE.OQ,Adobe Inc,264105871000.0,base,27
+2024,KO.N,Coca-Cola Co,257704560000.0,base,28
+2024,CRM.N,"Salesforce, Inc.",247933840000.0,base,29
+2024,PEP.OQ,"PepsiCo, Inc.",237727727496.51,base,30
+2024,ACN.N,Accenture PLC,231226187272.92,base,31
+2024,AMD.OQ,"Advanced Micro Devices, Inc.",223875836314.78,base,32
+2024,MCD.N,McDonald's Corp,215455596591.2,base,33
+2024,TMO.N,Thermo Fisher Scientific Inc,210244498472.15,base,34
+2024,CSCO.OQ,Cisco Systems Inc,205246156394.759,base,35
+2024,NFLX.OQ,"Netflix, Inc.",202747865104.0,base,36
+2024,INTC.OQ,Intel Corp,202098400000.0,base,37
+2024,LIN.OQ,Linde PLC,198601445255.88,base,38
+2024,ABT.N,Abbott Laboratories,190706030179.599,base,39
+2024,TMUS.OQ,T-Mobile US Inc,187244876964.6,base,40
+2024,WFC.N,Wells Fargo & Co,179148787091.62,base,41
+2024,CMCSA.OQ,Comcast Corporation,175775232638.83,base,42
+2024,DHR.N,Danaher Corporation,173492695452.53,base,43
+2024,DIS.N,The Walt Disney Company,170625510000.0,base,44
+2024,INTU.OQ,Intuit Inc.,169014159360.0,base,45
+2024,PFE.N,Pfizer Inc.,167867867171.16,base,46
+2024,VZ.N,Verizon Communications Inc,163451520000.0,base,47
+2024,NKE.N,"NIKE, Inc.",161436256345.4,base,48
+2024,AMGN.OQ,Amgen Inc,159103650000.0,base,49
+2024,QCOM.OQ,QUALCOMM Incorporated,156777140000.0,base,50
+2024,BX.N,Blackstone Inc.,156051160670.74,base,51
+2024,MS.N,Morgan Stanley,154119157362.0,base,52
+2024,TXN.OQ,Texas Instruments Inc,153857340000.0,base,53
+2024,BA.N,Boeing Co,153451502190.479,base,54
+2024,UNP.N,Union Pacific Corporation,148394318207.85,base,55
+2024,PM.N,Philip Morris International Inc,148347916499.96,base,56
+2024,IBM.N,International Business Machines Corporation,147468650831.5,base,57
+2024,CAT.N,Caterpillar Inc,146172720408.99,base,58
+2024,NOW.N,ServiceNow Inc,140979413600.0,base,59
+2024,COP.N,ConocoPhillips,138533014180.0,base,60
+2025,AAPL.OQ,Apple Inc.,3666985574900.0,base,1
+2025,NVDA.OQ,NVIDIA Corporation,3387211900000.0,base,2
+2025,MSFT.OQ,Microsoft Corporation,3112142300000.0,base,3
+2025,AMZN.OQ,Amazon.com Inc,2332790460000.0,base,4
+2025,GOOGL.OQ,Alphabet Inc.,2319747730000.0,base,5
+2025,GOOG.OQ,Alphabet Inc.,2319747730000.0,base,6
+2025,META.OQ,"Meta Platforms, Inc.",1512774508514.92,base,7
+2025,TSLA.OQ,Tesla Inc,1217511427465.52,base,8
+2025,AVGO.OQ,Broadcom Inc,1087372881068.88,base,9
+2025,BRKb.N,Berkshire Hathaway Inc,972544184902.9,base,10
+2025,LLY.N,Eli Lilly and Company,738634062030.58,base,11
+2025,WMT.OQ,Walmart Inc,723004759350.0,base,12
+2025,JPM.N,JPMorgan Chase & Co,675681701280.0,base,13
+2025,V.N,Visa Inc.,615489090000.0,base,14
+2025,MA.N,Mastercard Incorporated,477473600000.0,base,15
+2025,XOM.N,Exxonmobil Holdings Corp,467120430000.0,base,16
+2025,ORCL.N,Oracle Corporation,464378604680.0,base,17
+2025,UNH.N,UnitedHealth Group Inc,464292649346.339,base,18
+2025,COST.OQ,Costco Wholesale Corp,403863630914.699,base,19
+2025,PG.N,The Procter & Gamble Company,389198504087.72,base,20
+2025,HD.N,"The Home Depot, Inc.",385881640257.519,base,21
+2025,NFLX.OQ,"Netflix, Inc.",379305053283.0,base,22
+2025,JNJ.N,Johnson & Johnson,346745860427.44,base,23
+2025,BAC.N,Bank of America Corporation,337085091754.19,base,24
+2025,ABBV.N,AbbVie Inc.,317095659559.12,base,25
+2025,CRM.N,"Salesforce, Inc.",316441620000.0,base,26
+2025,KO.N,Coca-Cola Co,266035680000.0,base,27
+2025,CVX.N,Chevron Corporation,263651268290.75,base,28
+2025,TMUS.OQ,T-Mobile US Inc,251269577369.93,base,29
+2025,MRK.N,Merck & Co Inc,250863966914.65,base,30
+2025,CSCO.OQ,Cisco Systems Inc,235381013166.0,base,31
+2025,WFC.N,Wells Fargo & Co,230850967357.509,base,32
+2025,ACN.N,Accenture PLC,218179911624.34,base,33
+2025,NOW.N,ServiceNow Inc,217933132339.999,base,34
+2025,BX.N,Blackstone Inc.,212178485053.75,base,35
+2025,MCD.N,McDonald's Corp,209618424351.86,base,36
+2025,AXP.N,American Express Company,209497860000.0,base,37
+2025,PEP.OQ,"PepsiCo, Inc.",206088120000.0,base,38
+2025,DIS.N,The Walt Disney Company,204573720000.0,base,39
+2025,IBM.N,International Business Machines Corporation,203366454730.88,base,40
+2025,MS.N,Morgan Stanley,200521460000.0,base,41
+2025,TMO.N,Thermo Fisher Scientific Inc,199883163481.05,base,42
+2025,LIN.OQ,Linde PLC,197210318685.51,base,43
+2025,ABT.N,Abbott Laboratories,196756599362.72,base,44
+2025,AMD.OQ,"Advanced Micro Devices, Inc.",195759250147.979,base,45
+2025,ADBE.OQ,Adobe Inc,194481000000.0,base,46
+2025,PM.N,Philip Morris International Inc,188290325951.0,base,47
+2025,ISRG.OQ,Intuitive Surgical Inc,186882305652.12,base,48
+2025,GE.N,General Electric Company,181013765131.97,base,49
+2025,GS.N,Goldman Sachs Group Inc,180488729780.37,base,50
+2025,INTU.OQ,Intuit Inc.,174329373907.36,base,51
+2025,CAT.N,Caterpillar Inc,171945604274.479,base,52
+2025,PLTR.OQ,Palantir Technologies Inc.,171208833040.0,base,53
+2025,TXN.OQ,Texas Instruments Inc,170311450000.0,base,54
+2025,QCOM.OQ,QUALCOMM Incorporated,169925840000.0,base,55
+2025,VZ.N,Verizon Communications Inc,169284100000.0,base,56
+2025,DHR.N,Danaher Corporation,165256371000.0,base,57
+2025,T.N,AT&T Inc,163828080000.0,base,58
+2025,BKNG.OQ,Booking Holdings Inc.,163010909571.77,base,59
+2025,BLK.N,"BlackRock, Inc.",157643904946.199,base,60
+2026,NVDA.OQ,NVIDIA Corporation,4589055000000.0,base,1
+2026,AAPL.OQ,Apple Inc.,3983284925260.0,base,2
+2026,GOOG.OQ,Alphabet Inc.,3810456130000.0,base,3
+2026,GOOGL.OQ,Alphabet Inc.,3810456130000.0,base,4
+2026,MSFT.OQ,Microsoft Corporation,3513471260000.0,base,5
+2026,AMZN.OQ,Amazon.com Inc,2430571500000.0,base,6
+2026,AVGO.OQ,Broadcom Inc,1648161598008.38,base,7
+2026,META.OQ,"Meta Platforms, Inc.",1639376354364.77,base,8
+2026,TSLA.OQ,Tesla Inc,1456941602487.69,base,9
+2026,BRKb.N,Berkshire Hathaway Inc,1071267887262.15,base,10
+2026,LLY.N,Eli Lilly and Company,1021354795712.51,base,11
+2026,WMT.OQ,Walmart Inc,898716026860.64,base,12
+2026,JPM.N,JPMorgan Chase & Co,877559176000.0,base,13
+2026,V.N,Visa Inc.,661591553428.56,base,14
+2026,ORCL.N,Oracle Corporation,562300272300.0,base,15
+2026,XOM.N,Exxonmobil Holdings Corp,512646039705.8,base,16
+2026,MA.N,Mastercard Incorporated,503438220000.0,base,17
+2026,JNJ.N,Johnson & Johnson,499567339399.7,base,18
+2026,ABBV.N,AbbVie Inc.,405278969963.92,base,19
+2026,BAC.N,Bank of America Corporation,403537380102.75,base,20
+2026,PLTR.OQ,Palantir Technologies Inc.,399914924396.68,base,21
+2026,NFLX.OQ,"Netflix, Inc.",384174534028.5,base,22
+2026,COST.OQ,Costco Wholesale Corp,379286411699.5,base,23
+2026,AMD.OQ,"Advanced Micro Devices, Inc.",363818442943.8,base,24
+2026,MU.OQ,"Micron Technology, Inc.",355008131104.62,base,25
+2026,HD.N,"The Home Depot, Inc.",344267781742.7,base,26
+2026,GE.N,General Electric Company,336391919666.5,base,27
+2026,PG.N,The Procter & Gamble Company,329520057126.149,base,28
+2026,CVX.N,Chevron Corporation,308682000000.0,base,29
+2026,UNH.N,UnitedHealth Group Inc,304724111768.0,base,30
+2026,CSCO.OQ,Cisco Systems Inc,300441230570.52,base,31
+2026,KO.N,Coca-Cola Co,297327203366.4,base,32
+2026,WFC.N,Wells Fargo & Co,294415520000.0,base,33
+2026,MS.N,Morgan Stanley,287947700000.0,base,34
+2026,CAT.N,Caterpillar Inc,278432592342.12,base,35
+2026,GS.N,Goldman Sachs Group Inc,274236634747.74,base,36
+2026,IBM.N,International Business Machines Corporation,272475312549.0,base,37
+2026,MRK.N,Merck & Co Inc,264211298957.2,base,38
+2026,AXP.N,American Express Company,255692780000.0,base,39
+2026,RTX.N,RTX Corporation,251343367331.0,base,40
+2026,PM.N,Philip Morris International Inc,249529191464.7,base,41
+2026,CRM.N,"Salesforce, Inc.",237641940000.0,base,42
+2026,LRCX.OQ,Lam Research Corporation,231543370800.0,base,43
+2026,TMO.N,Thermo Fisher Scientific Inc,222610782038.09,base,44
+2026,TMUS.OQ,T-Mobile US Inc,220921221322.38,base,45
+2026,MCD.N,McDonald's Corp,215967928181.0,base,46
+2026,ABT.N,Abbott Laboratories,215950507097.93,base,47
+2026,AMAT.OQ,Applied Materials Inc,213198682816.42,base,48
+2026,C.N,Citigroup Inc,212389910000.0,base,49
+2026,APP.OQ,AppLovin Corporation,209185694160.0,base,50
+2026,DIS.N,The Walt Disney Company,201665550000.0,base,51
+2026,LIN.OQ,Linde PLC,200372455352.3,base,52
+2026,ISRG.OQ,Intuitive Surgical Inc,199532670890.5,base,53
+2026,INTC.OQ,Intel Corp,196663720000.0,base,54
+2026,PEP.OQ,"PepsiCo, Inc.",194476785552.06,base,55
+2026,BX.N,Blackstone Inc.,189650771544.0,base,56
+2026,QCOM.OQ,QUALCOMM Incorporated,185780520000.0,base,57
+2026,GEV.N,GE Vernova Inc,183158747261.199,base,58
+2026,SCHW.N,The Charles Schwab Corporation,180483467728.9,base,59
+2026,BA.N,Boeing Co,178730724957.9,base,60
