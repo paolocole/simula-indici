@@ -16,7 +16,7 @@ year,ric,name,mktcap,fonte,rank
 1995,MOB.N^K99,Mobil,34000000000.0,manual-est,15
 1995,MSI.N,Motorola Solutions Inc,32317600000.0,base,16
 1995,AIG.N,"American International Group, Inc.",31127544000.0,base,17
-1995,F.N,Ford Motor Co,29598726381.073273,edge-fix,18
+1995,F.N,Ford Motor Co,29598726381.07328,edge-fix,18
 1995,BMY.N,Bristol-Myers Squibb Company,29555489250.0,base,19
 1995,GM.N^F09,Motors GUC Trust,29510236000.0,dead-redo,20
 1995,AN.N^L98,BP Nrth Amrc,29000000000.0,manual-est,21
@@ -238,7 +238,7 @@ year,ric,name,mktcap,fonte,rank
 1998,WFC.N,Wells Fargo & Co,28843616231.625,base,57
 1998,HSH.N^H14,Hillshire Brands,28806525763.875,dead-redo,58
 1998,DELL.OQ^J13,Dell,27991867706.25,dead-redo,59
-1998,CA.OQ^K18,CA,27705269989.747406,outlier-fix,60
+1998,CA.OQ^K18,CA,27705269989.74741,outlier-fix,60
 1999,MSFT.OQ,Microsoft Corporation,345826573312.5,base,1
 1999,GE.N,General Electric Company,333306848910.0,base,2
 1999,INTC.OQ,Intel Corp,197643687500.0,base,3
@@ -262,7 +262,7 @@ year,ric,name,mktcap,fonte,rank
 1999,AIG.N,"American International Group, Inc.",101452327121.625,base,21
 1999,T.N,AT&T Inc,98524551250.125,base,22
 1999,LLY.N,Eli Lilly and Company,97735820436.0,base,23
-1999,BLS.N^A07,Bellsouth US,96407321628.83635,outlier-fix,24
+1999,BLS.N^A07,Bellsouth US,96407321628.83636,outlier-fix,24
 1999,HD.N,"The Home Depot, Inc.",95643142322.0625,base,25
 1999,DELL.OQ^J13,Dell,93113007142.6875,dead-redo,26
 1999,VZ.N,Verizon Communications Inc,83822957406.0,base,27
@@ -962,7 +962,7 @@ year,ric,name,mktcap,fonte,rank
 2011,XOM.N,Exxonmobil Holdings Corp,368711734643.52,base,1
 2011,AAPL.OQ,Apple Inc.,295886577853.44,base,2
 2011,MSFT.OQ,Microsoft Corporation,238784653684.22,base,3
-2011,BRKb.N,Berkshire Hathaway Inc,198306699049.44,base,4
+2011,BRKb.N,Berkshire Hathaway Inc,198663934064.64,company-cap(SP-exception),4
 2011,GE.N,General Electric Company,194874792220.0,base,5
 2011,WMT.OQ,Walmart Inc,192098352275.42,base,6
 2011,GOOGL.OQ,Alphabet Inc.,189936824462.58,base,7
@@ -1026,7 +1026,7 @@ year,ric,name,mktcap,fonte,rank
 2012,CVX.N,Chevron Corporation,211893938883.2,base,5
 2012,GOOGL.OQ,Alphabet Inc.,209198930436.9,base,6
 2012,WMT.OQ,Walmart Inc,204659914592.16,base,7
-2012,BRKb.N,Berkshire Hathaway Inc,189215895103.4,base,8
+2012,BRKb.N,Berkshire Hathaway Inc,192158630686.24,company-cap(SP-exception),8
 2012,GE.N,General Electric Company,189082156410.0,base,9
 2012,PG.N,The Procter & Gamble Company,183540566272.56,base,10
 2012,T.N,AT&T Inc,179202240000.0,base,11
@@ -1083,8 +1083,8 @@ year,ric,name,mktcap,fonte,rank
 2013,XOM.N,Exxonmobil Holdings Corp,399372420000.0,base,2
 2013,GOOGL.OQ,Alphabet Inc.,237655749364.0,base,3
 2013,MSFT.OQ,Microsoft Corporation,232462694001.42,base,4
-2013,WMT.OQ,Walmart Inc,231624268387.8,base,5
-2013,BRKb.N,Berkshire Hathaway Inc,230843866989.2,base,6
+2013,BRKb.N,Berkshire Hathaway Inc,232170210488.114,company-cap(SP-exception),5
+2013,WMT.OQ,Walmart Inc,231624268387.8,base,6
 2013,GE.N,General Electric Company,223777642000.0,base,7
 2013,IBM.N,International Business Machines Corporation,221862237931.949,base,8
 2013,CVX.N,Chevron Corporation,216053222070.56,base,9
@@ -1143,7 +1143,7 @@ year,ric,name,mktcap,fonte,rank
 2014,XOM.N,Exxonmobil Holdings Corp,432416250000.0,base,2
 2014,GOOGL.OQ,Alphabet Inc.,371879376706.079,base,3
 2014,MSFT.OQ,Microsoft Corporation,308428000000.0,base,4
-2014,BRKb.N,Berkshire Hathaway Inc,289791179780.0,base,5
+2014,BRKb.N,Berkshire Hathaway Inc,289886893844.4,company-cap(SP-exception),5
 2014,GE.N,General Electric Company,278227647500.0,base,6
 2014,JNJ.N,Johnson & Johnson,256835539645.69,base,7
 2014,WMT.OQ,Walmart Inc,255334802451.3,base,8
@@ -1202,22 +1202,22 @@ year,ric,name,mktcap,fonte,rank
 2015,AAPL.OQ,Apple Inc.,641202957200.0,base,1
 2015,XOM.N,Exxonmobil Holdings Corp,389978830000.0,base,2
 2015,MSFT.OQ,Microsoft Corporation,385435798190.519,base,3
-2015,BRKb.N,Berkshire Hathaway Inc,367463712314.41,base,4
-2015,GOOG.OQ,Alphabet Inc.,357620063912.199,base,5
-2015,GOOGL.OQ,Alphabet Inc.,357620063912.199,base,6
-2015,JNJ.N,Johnson & Johnson,292563015036.24,base,7
-2015,WFC.N,Wells Fargo & Co,282815410000.0,base,8
-2015,WMT.OQ,Walmart Inc,276872011980.5,base,9
-2015,GE.N,General Electric Company,251657331795.659,base,10
-2015,PG.N,The Procter & Gamble Company,244234113004.56,base,11
-2015,JPM.N,JPMorgan Chase & Co,233599414737.54,base,12
-2015,META.OQ,"Meta Platforms, Inc.",218706670500.75,base,13
-2015,CVX.N,Chevron Corporation,212823977263.3,base,14
-2015,PFE.N,Pfizer Inc.,197399591235.21,base,15
-2015,VZ.N,Verizon Communications Inc,195118800000.0,base,16
-2015,ORCL.N,Oracle Corporation,194669299110.0,base,17
-2015,BAC.N,Bank of America Corporation,189258910320.4,base,18
-2015,KO.N,Coca-Cola Co,184577955541.14,base,19
+2015,BRKb.N,Berkshire Hathaway Inc,367463712314.41,company-cap(SP-exception),4
+2015,JNJ.N,Johnson & Johnson,292563015036.24,base,5
+2015,WFC.N,Wells Fargo & Co,282815410000.0,base,6
+2015,WMT.OQ,Walmart Inc,276872011980.5,base,7
+2015,GE.N,General Electric Company,251657331795.659,base,8
+2015,PG.N,The Procter & Gamble Company,244234113004.56,base,9
+2015,JPM.N,JPMorgan Chase & Co,233599414737.54,base,10
+2015,META.OQ,"Meta Platforms, Inc.",218706670500.75,base,11
+2015,CVX.N,Chevron Corporation,212823977263.3,base,12
+2015,PFE.N,Pfizer Inc.,197399591235.21,base,13
+2015,VZ.N,Verizon Communications Inc,195118800000.0,base,14
+2015,ORCL.N,Oracle Corporation,194669299110.0,base,15
+2015,BAC.N,Bank of America Corporation,189258910320.4,base,16
+2015,KO.N,Coca-Cola Co,184577955541.14,base,17
+2015,GOOGL.OQ,Alphabet Inc.,179531418999.449,issue-cap,18
+2015,GOOG.OQ,Alphabet Inc.,178088644912.749,issue-cap,19
 2015,INTC.OQ,Intel Corp,175800600000.0,base,20
 2015,T.N,AT&T Inc,175683690000.0,base,21
 2015,C.N,Citigroup Inc,164380031468.32,base,22
@@ -1260,16 +1260,16 @@ year,ric,name,mktcap,fonte,rank
 2015,HON.OQ,Honeywell International Inc,78461078874.75,base,59
 2015,LLY.N,Eli Lilly and Company,78006892979.02,base,60
 2016,AAPL.OQ,Apple Inc.,583612701620.0,base,1
-2016,GOOG.OQ,Alphabet Inc.,528447562921.91,base,2
-2016,GOOGL.OQ,Alphabet Inc.,528447562921.91,base,3
-2016,MSFT.OQ,Microsoft Corporation,443169421672.959,base,4
-2016,BRKb.N,Berkshire Hathaway Inc,325274641332.839,base,5
-2016,XOM.N,Exxonmobil Holdings Corp,324501057010.4,base,6
-2016,AMZN.OQ,Amazon.com Inc,316831551559.45,base,7
-2016,GE.N,General Electric Company,314902794850.0,base,8
-2016,META.OQ,"Meta Platforms, Inc.",295977857586.98,base,9
-2016,JNJ.N,Johnson & Johnson,284220449570.88,base,10
-2016,WFC.N,Wells Fargo & Co,277660706417.279,base,11
+2016,MSFT.OQ,Microsoft Corporation,443169421672.959,base,2
+2016,BRKb.N,Berkshire Hathaway Inc,325274641332.839,company-cap(SP-exception),3
+2016,XOM.N,Exxonmobil Holdings Corp,324501057010.4,base,4
+2016,AMZN.OQ,Amazon.com Inc,316831551559.45,base,5
+2016,GE.N,General Electric Company,314902794850.0,base,6
+2016,META.OQ,"Meta Platforms, Inc.",295977857586.98,base,7
+2016,JNJ.N,Johnson & Johnson,284220449570.88,base,8
+2016,WFC.N,Wells Fargo & Co,277660706417.279,base,9
+2016,GOOGL.OQ,Alphabet Inc.,266251471465.43,issue-cap,10
+2016,GOOG.OQ,Alphabet Inc.,262196091456.48,issue-cap,11
 2016,JPM.N,JPMorgan Chase & Co,243064999175.31,base,12
 2016,PG.N,The Procter & Gamble Company,214769551119.599,base,13
 2016,T.N,AT&T Inc,211690319999.999,base,14
@@ -1320,17 +1320,17 @@ year,ric,name,mktcap,fonte,rank
 2016,USB.N,U.S. Bancorp,74637385235.54,base,59
 2016,MDLZ.OQ,Mondelez International Inc,71258269982.56,base,60
 2017,AAPL.OQ,Apple Inc.,608960249120.0,base,1
-2017,GOOGL.OQ,Alphabet Inc.,539067897721.81,base,2
-2017,GOOG.OQ,Alphabet Inc.,539067897721.81,base,3
-2017,MSFT.OQ,Microsoft Corporation,483160280132.14,base,4
-2017,BRKb.N,Berkshire Hathaway Inc,400566669540.78,base,5
-2017,XOM.N,Exxonmobil Holdings Corp,374280539604.76,base,6
-2017,AMZN.OQ,Amazon.com Inc,356313123601.49,base,7
-2017,META.OQ,"Meta Platforms, Inc.",331593368343.899,base,8
-2017,JNJ.N,Johnson & Johnson,313432460382.88,base,9
-2017,JPM.N,JPMorgan Chase & Co,308768424548.62,base,10
-2017,GE.N,General Electric Company,279545924000.0,base,11
-2017,WFC.N,Wells Fargo & Co,276779119817.97,base,12
+2017,MSFT.OQ,Microsoft Corporation,483160280132.14,base,2
+2017,BRKb.N,Berkshire Hathaway Inc,403013438418.63,company-cap(SP-exception),3
+2017,XOM.N,Exxonmobil Holdings Corp,374280539604.76,base,4
+2017,AMZN.OQ,Amazon.com Inc,356313123601.49,base,5
+2017,META.OQ,"Meta Platforms, Inc.",331593368343.899,base,6
+2017,JNJ.N,Johnson & Johnson,313432460382.88,base,7
+2017,JPM.N,JPMorgan Chase & Co,308768424548.62,base,8
+2017,GE.N,General Electric Company,279545924000.0,base,9
+2017,GOOGL.OQ,Alphabet Inc.,278074897006.41,issue-cap,10
+2017,WFC.N,Wells Fargo & Co,276779119817.97,base,11
+2017,GOOG.OQ,Alphabet Inc.,271289640632.72,issue-cap,12
 2017,T.N,AT&T Inc,261176730000.0,base,13
 2017,PG.N,The Procter & Gamble Company,224997451417.919,base,14
 2017,BAC.N,Bank of America Corporation,224376709653.4,base,15
@@ -1380,12 +1380,12 @@ year,ric,name,mktcap,fonte,rank
 2017,AGN.N^E20,Allergan,81088580222.78,dead-redo,59
 2017,SBUX.OQ,Starbucks Corp,80803808000.0,base,60
 2018,AAPL.OQ,Apple Inc.,884436585120.0,base,1
-2018,GOOG.OQ,Alphabet Inc.,742799349724.81,base,2
-2018,GOOGL.OQ,Alphabet Inc.,742799349724.81,base,3
-2018,MSFT.OQ,Microsoft Corporation,663069027260.25,base,4
-2018,AMZN.OQ,Amazon.com Inc,572950834796.75,base,5
-2018,META.OQ,"Meta Platforms, Inc.",527171823062.16,base,6
-2018,BRKb.N,Berkshire Hathaway Inc,486521577228.54,base,7
+2018,MSFT.OQ,Microsoft Corporation,663069027260.25,base,2
+2018,AMZN.OQ,Amazon.com Inc,572950834796.75,base,3
+2018,META.OQ,"Meta Platforms, Inc.",527171823062.16,base,4
+2018,BRKb.N,Berkshire Hathaway Inc,493084508990.009,company-cap(SP-exception),5
+2018,GOOG.OQ,Alphabet Inc.,378304190292.0,issue-cap,6
+2018,GOOGL.OQ,Alphabet Inc.,376926918390.72,issue-cap,7
 2018,JPM.N,JPMorgan Chase & Co,374556876037.15,base,8
 2018,JNJ.N,Johnson & Johnson,374044186561.5,base,9
 2018,XOM.N,Exxonmobil Holdings Corp,360281129727.31,base,10
@@ -1442,10 +1442,10 @@ year,ric,name,mktcap,fonte,rank
 2019,MSFT.OQ,Microsoft Corporation,776219238584.32,base,1
 2019,AMZN.OQ,Amazon.com Inc,752586284413.64,base,2
 2019,AAPL.OQ,Apple Inc.,749393252160.0,base,3
-2019,GOOG.OQ,Alphabet Inc.,730406977923.29,base,4
-2019,GOOGL.OQ,Alphabet Inc.,730406977923.29,base,5
-2019,BRKb.N,Berkshire Hathaway Inc,499294399000.8,base,6
-2019,META.OQ,"Meta Platforms, Inc.",389915503196.16,base,7
+2019,BRKb.N,Berkshire Hathaway Inc,471607549021.56,company-cap(SP-exception),4
+2019,META.OQ,"Meta Platforms, Inc.",389915503196.16,base,5
+2019,GOOG.OQ,Alphabet Inc.,355229862622.699,issue-cap,6
+2019,GOOGL.OQ,Alphabet Inc.,354659776772.91,issue-cap,7
 2019,JNJ.N,Johnson & Johnson,342622685539.75,base,8
 2019,JPM.N,JPMorgan Chase & Co,330246539099.75,base,9
 2019,XOM.N,Exxonmobil Holdings Corp,295054021677.3,base,10
@@ -1501,11 +1501,11 @@ year,ric,name,mktcap,fonte,rank
 2019,BMY.N,Bristol-Myers Squibb Company,85576181720.8199,base,60
 2020,AAPL.OQ,Apple Inc.,1316742509450.0,base,1
 2020,MSFT.OQ,Microsoft Corporation,1225338758363.16,base,2
-2020,GOOG.OQ,Alphabet Inc.,943511366356.3,base,3
-2020,GOOGL.OQ,Alphabet Inc.,943511366356.3,base,4
-2020,AMZN.OQ,Amazon.com Inc,941028081532.2,base,5
-2020,META.OQ,"Meta Platforms, Inc.",598239387273.18,base,6
-2020,BRKb.N,Berkshire Hathaway Inc,558195082935.929,base,7
+2020,AMZN.OQ,Amazon.com Inc,941028081532.2,base,3
+2020,META.OQ,"Meta Platforms, Inc.",598239387273.18,base,4
+2020,BRKb.N,Berkshire Hathaway Inc,552939448784.66,company-cap(SP-exception),5
+2020,GOOGL.OQ,Alphabet Inc.,471272185466.64,issue-cap,6
+2020,GOOG.OQ,Alphabet Inc.,467455616543.72,issue-cap,7
 2020,JPM.N,JPMorgan Chase & Co,442526657927.16,base,8
 2020,V.N,Visa Inc.,412312376325.68,base,9
 2020,JNJ.N,Johnson & Johnson,384174414082.029,base,10
@@ -1562,11 +1562,11 @@ year,ric,name,mktcap,fonte,rank
 2021,AAPL.OQ,Apple Inc.,2232278767470.0,base,1
 2021,MSFT.OQ,Microsoft Corporation,1681605513424.98,base,2
 2021,AMZN.OQ,Amazon.com Inc,1634168480448.19,base,3
-2021,GOOG.OQ,Alphabet Inc.,1185281042276.96,base,4
-2021,GOOGL.OQ,Alphabet Inc.,1185281042276.96,base,5
-2021,META.OQ,"Meta Platforms, Inc.",778039626010.36,base,6
-2021,TSLA.OQ,Tesla Inc,668905110256.11,base,7
-2021,BRKb.N,Berkshire Hathaway Inc,543678513841.28,base,8
+2021,META.OQ,"Meta Platforms, Inc.",778039626010.36,base,4
+2021,TSLA.OQ,Tesla Inc,668905110256.11,base,5
+2021,GOOGL.OQ,Alphabet Inc.,607393270918.4,issue-cap,6
+2021,GOOG.OQ,Alphabet Inc.,577887771358.56,issue-cap,7
+2021,BRKb.N,Berkshire Hathaway Inc,543678513841.28,company-cap(SP-exception),8
 2021,V.N,Visa Inc.,511232359138.11,base,9
 2021,JNJ.N,Johnson & Johnson,414309565719.36,base,10
 2021,WMT.OQ,Walmart Inc,407841566232.9,base,11
@@ -1621,13 +1621,13 @@ year,ric,name,mktcap,fonte,rank
 2021,SBUX.OQ,Starbucks Corp,125562426000.0,base,60
 2022,AAPL.OQ,Apple Inc.,2901644912070.0,base,1
 2022,MSFT.OQ,Microsoft Corporation,2525083982926.08,base,2
-2022,GOOG.OQ,Alphabet Inc.,1921854645843.66,base,3
-2022,GOOGL.OQ,Alphabet Inc.,1921854645843.66,base,4
-2022,AMZN.OQ,Amazon.com Inc,1691002595270.8,base,5
-2022,TSLA.OQ,Tesla Inc,1061287010296.55,base,6
-2022,META.OQ,"Meta Platforms, Inc.",935644813206.6,base,7
+2022,AMZN.OQ,Amazon.com Inc,1691002595270.8,base,3
+2022,TSLA.OQ,Tesla Inc,1061287010296.55,base,4
+2022,GOOGL.OQ,Alphabet Inc.,1003417201943.27,issue-cap,5
+2022,META.OQ,"Meta Platforms, Inc.",935644813206.6,base,6
+2022,GOOG.OQ,Alphabet Inc.,921912985489.22,issue-cap,7
 2022,NVDA.OQ,NVIDIA Corporation,735275000000.0,base,8
-2022,BRKb.N,Berkshire Hathaway Inc,669122034349.0,base,9
+2022,BRKb.N,Berkshire Hathaway Inc,673710592098.53,company-cap(SP-exception),9
 2022,UNH.N,UnitedHealth Group Inc,472941186675.0,base,10
 2022,JPM.N,JPMorgan Chase & Co,467966380759.35,base,11
 2022,V.N,Visa Inc.,456442159327.83,base,12
@@ -1681,10 +1681,10 @@ year,ric,name,mktcap,fonte,rank
 2022,HON.OQ,Honeywell International Inc,143543074517.25,base,60
 2023,AAPL.OQ,Apple Inc.,2066941771740.0,base,1
 2023,MSFT.OQ,Microsoft Corporation,1787731749394.07,base,2
-2023,GOOGL.OQ,Alphabet Inc.,1145003890000.0,base,3
-2023,GOOG.OQ,Alphabet Inc.,1145003890000.0,base,4
-2023,AMZN.OQ,Amazon.com Inc,856938950784.0,base,5
-2023,BRKb.N,Berkshire Hathaway Inc,681920932605.96,base,6
+2023,AMZN.OQ,Amazon.com Inc,856938950784.0,base,3
+2023,BRKb.N,Berkshire Hathaway Inc,683721774026.7,company-cap(SP-exception),4
+2023,GOOGL.OQ,Alphabet Inc.,610204640000.0,issue-cap,5
+2023,GOOG.OQ,Alphabet Inc.,538379400000.0,issue-cap,6
 2023,UNH.N,UnitedHealth Group Inc,495373191523.139,base,7
 2023,JNJ.N,Johnson & Johnson,461848529176.55,base,8
 2023,XOM.N,Exxonmobil Holdings Corp,454215400000.0,base,9
@@ -1741,13 +1741,13 @@ year,ric,name,mktcap,fonte,rank
 2023,IBM.N,International Business Machines Corporation,127382363283.069,base,60
 2024,AAPL.OQ,Apple Inc.,2870346373440.0,base,1
 2024,MSFT.OQ,Microsoft Corporation,2756305840000.0,base,2
-2024,GOOG.OQ,Alphabet Inc.,1729508690000.0,base,3
-2024,GOOGL.OQ,Alphabet Inc.,1729508690000.0,base,4
-2024,AMZN.OQ,Amazon.com Inc,1556723190000.0,base,5
-2024,NVDA.OQ,NVIDIA Corporation,1189749600000.0,base,6
-2024,META.OQ,"Meta Platforms, Inc.",889917765464.28,base,7
-2024,TSLA.OQ,Tesla Inc,789707651952.22,base,8
-2024,BRKb.N,Berkshire Hathaway Inc,788575294510.78,base,9
+2024,AMZN.OQ,Amazon.com Inc,1556723190000.0,base,3
+2024,NVDA.OQ,NVIDIA Corporation,1189749600000.0,base,4
+2024,GOOGL.OQ,Alphabet Inc.,940349479999.999,issue-cap,5
+2024,META.OQ,"Meta Platforms, Inc.",889917765464.28,base,6
+2024,GOOG.OQ,Alphabet Inc.,798788760000.0,issue-cap,7
+2024,BRKb.N,Berkshire Hathaway Inc,797769105190.49,company-cap(SP-exception),8
+2024,TSLA.OQ,Tesla Inc,789707651952.22,base,9
 2024,LLY.N,Eli Lilly and Company,562179745751.4,base,10
 2024,V.N,Visa Inc.,520329218775.48,base,11
 2024,AVGO.OQ,Broadcom Inc,508110410781.22,base,12
@@ -1803,12 +1803,12 @@ year,ric,name,mktcap,fonte,rank
 2025,NVDA.OQ,NVIDIA Corporation,3387211900000.0,base,2
 2025,MSFT.OQ,Microsoft Corporation,3112142300000.0,base,3
 2025,AMZN.OQ,Amazon.com Inc,2332790460000.0,base,4
-2025,GOOGL.OQ,Alphabet Inc.,2319747730000.0,base,5
-2025,GOOG.OQ,Alphabet Inc.,2319747730000.0,base,6
-2025,META.OQ,"Meta Platforms, Inc.",1512774508514.92,base,7
-2025,TSLA.OQ,Tesla Inc,1217511427465.52,base,8
-2025,AVGO.OQ,Broadcom Inc,1087372881068.88,base,9
-2025,BRKb.N,Berkshire Hathaway Inc,972544184902.9,base,10
+2025,META.OQ,"Meta Platforms, Inc.",1512774508514.92,base,5
+2025,GOOGL.OQ,Alphabet Inc.,1284225840000.0,issue-cap,6
+2025,TSLA.OQ,Tesla Inc,1217511427465.52,base,7
+2025,AVGO.OQ,Broadcom Inc,1087372881068.88,base,8
+2025,GOOG.OQ,Alphabet Inc.,1065111950000.0,issue-cap,9
+2025,BRKb.N,Berkshire Hathaway Inc,979094195084.84,company-cap(SP-exception),10
 2025,LLY.N,Eli Lilly and Company,738634062030.58,base,11
 2025,WMT.OQ,Walmart Inc,723004759350.0,base,12
 2025,JPM.N,JPMorgan Chase & Co,675681701280.0,base,13
@@ -1861,14 +1861,14 @@ year,ric,name,mktcap,fonte,rank
 2025,BLK.N,"BlackRock, Inc.",157643904946.199,base,60
 2026,NVDA.OQ,NVIDIA Corporation,4589055000000.0,base,1
 2026,AAPL.OQ,Apple Inc.,3983284925260.0,base,2
-2026,GOOG.OQ,Alphabet Inc.,3810456130000.0,base,3
-2026,GOOGL.OQ,Alphabet Inc.,3810456130000.0,base,4
-2026,MSFT.OQ,Microsoft Corporation,3513471260000.0,base,5
-2026,AMZN.OQ,Amazon.com Inc,2430571500000.0,base,6
+2026,MSFT.OQ,Microsoft Corporation,3513471260000.0,base,3
+2026,AMZN.OQ,Amazon.com Inc,2430571500000.0,base,4
+2026,GOOGL.OQ,Alphabet Inc.,2098583849999.99,issue-cap,5
+2026,GOOG.OQ,Alphabet Inc.,1711872280000.0,issue-cap,6
 2026,AVGO.OQ,Broadcom Inc,1648161598008.38,base,7
 2026,META.OQ,"Meta Platforms, Inc.",1639376354364.77,base,8
 2026,TSLA.OQ,Tesla Inc,1456941602487.69,base,9
-2026,BRKb.N,Berkshire Hathaway Inc,1071267887262.15,base,10
+2026,BRKb.N,Berkshire Hathaway Inc,1071267887262.15,company-cap(SP-exception),10
 2026,LLY.N,Eli Lilly and Company,1021354795712.51,base,11
 2026,WMT.OQ,Walmart Inc,898716026860.64,base,12
 2026,JPM.N,JPMorgan Chase & Co,877559176000.0,base,13
